@@ -1,0 +1,418 @@
+.bypostauthor .comment-cont .comment-author {
+    color: $main_color;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+select {
+    max-width: 100%;
+}
+a {
+    color: inherit;
+}
+
+/* Mega Menu */
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu {
+    display: block;
+    padding: 0;
+}
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul {
+    display: table;
+}
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul > li {
+    display: table-cell;
+    vertical-align: top;
+}
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul > li > a {
+    display: none;
+}
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul > li > .dropdown-menu {
+    position: relative;
+    margin: 0;
+    left: 0;
+    top: 0;
+    background: none;
+    -webkit-transform: none;
+    -ms-transform: none;
+        transform: none;
+}
+.navbar-youplay .navbar-nav > .youplay-mega.dropdown-hover:hover > .dropdown-menu > ul > li > .dropdown-menu,
+.navbar-youplay .navbar-nav > .youplay-mega.dropdown-hover.open > .dropdown-menu > ul > li > .dropdown-menu {
+    visibility: visible;
+    opacity: 1;
+}
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul > li > .dropdown-menu:before,
+.navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul > li > .dropdown-menu:after {
+    content: none;
+}
+@media (max-width: 767px) {
+    .navbar-youplay .navbar-nav > .youplay-mega > .dropdown-menu > ul > li,
+    .navbar-youplay .navbar-collapse .navbar-nav > .youplay-mega.dropdown-hover.open > .dropdown-menu > ul > li > .dropdown-menu,
+    .navbar-youplay .navbar-collapse .navbar-nav > .youplay-mega.dropdown-hover.open > .dropdown-menu > ul > li > .dropdown-menu > ul {
+        display: block;
+    }
+}
+
+/* Isotope grid columns */
+.isotope-list.grid,
+.store-grid .grid,
+.woocommerce .grid {
+    > .item {
+        float: left;
+        margin-bottom: 1rem;
+        width: 100% / 3%;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    // 12 columns support
+    @for $i from 1 through 12 {
+        &.grid-#{$i} > .item {
+            width: 100% / $i;
+
+            @if $i > 1 {
+                @media #{$media-sm} {
+                    width: 100% / ($i - 1);
+                }
+            }
+            @if $i > 2 {
+                @media #{$media-xs} {
+                    width: 100% / ($i - 2);
+                }
+            }
+            @if $i > 3 {
+                @media #{$media-xxs} {
+                    width: 100% / ($i - 3);
+                }
+            }
+        }
+    }
+}
+
+/* Fix for some angled images */
+.angled-img .img > img,
+.comments-block .comment-avatar > img,
+.comments-block .review-avatar > img,
+.reviews-block .comment-avatar > img,
+.reviews-block .review-avatar > img {
+    height: auto;
+}
+
+/* Fix edit-post link style */
+/*.edit-link > a,
+.edit-link > a:hover {
+  color: inherit;
+  text-decoration: none;
+}*/
+
+/* Fix Social Likes button icons color */
+.social-likes__button {
+    color: inherit;
+}
+
+/* Fix accordion line height */
+.panel-group .panel-heading .panel-title {
+    line-height: 1.1;
+}
+
+/* Fix Default WP widgets */
+.widget_archive > ul,
+.widget_categories > ul,
+.widget_meta > ul,
+.widget_recent_entries > ul,
+.widget_text > .textwidget,
+.widget_tag_cloud > .tagcloud,
+.widget_recent_comments > ul,
+.widget_nav_menu ul,
+.widget_calendar > div,
+.widget_pages > ul,
+.widget_rss > ul,
+.widget_archive > label,
+.widget_categories > label {
+    margin-top: 1rem;
+    padding: 0 1.8rem;
+}
+.widget_archive > select,
+.widget_categories > select {
+    margin: 0 1.8rem;
+}
+.widget_calendar table {
+    width: 100%;
+    text-align: left;
+}
+.widget_archive ul a,
+.widget_categories ul a,
+.widget_recent_comments ul a {
+    display: inline-block;
+}
+.widget_rss li {
+    margin-top: 1rem;
+}
+.widget_rss cite.date {
+    text-align: right;
+    margin-top: 0;
+}
+
+
+/* Fix Search line height */
+.search-block > form input {
+    line-height: normal;
+}
+
+
+/* Fix mauto helper class */
+.mauto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+
+/* Fix top offset when admin navbar */
+body.admin-bar .navbar-youplay {
+    top: 32px !important;
+}
+body.admin-bar .no-banner,
+body.admin-bar .youplay-banner.banner-top {
+    padding-top: 112px; /* default 80px; */
+    min-height: 582px; /* default 550px */
+}
+body.admin-bar .youplay-banner.banner-top.big {
+    min-height: 682px; /* default 650px */
+}
+body.admin-bar .youplay-banner.banner-top.small {
+    min-height: 482px; /* default 450px */
+}
+body.admin-bar .youplay-banner.banner-top.xsmall {
+    min-height: 382px; /* default 350px */
+}
+body.admin-bar .youplay-banner.banner-top.full {
+    min-height: 100vh;
+}
+html {
+    margin-top: 0 !important;
+}
+@media screen and ( max-width: 782px ) {
+    body.admin-bar .navbar-youplay,
+    body.admin-bar .navbar-youplay .navbar-collapse {
+        top: 46px !important;
+    }
+    body.admin-bar .no-banner,
+    body.admin-bar .youplay-banner.banner-top {
+        padding-top: 126px; /* default 80px; */
+        min-height: 596px; /* default 550px */
+    }
+    body.admin-bar .youplay-banner.banner-top.small {
+        min-height: 496px; /* default 450px */
+    }
+    body.admin-bar .youplay-banner.banner-top.xsmall {
+        min-height: 396px; /* default 350px */
+    }
+    body.admin-bar .youplay-banner.banner-top.full {
+        min-height: 100vh;
+    }
+}
+@media screen and ( max-width: 600px ) {
+    body.admin-bar .navbar-youplay,
+    body.admin-bar .navbar-youplay .navbar-collapse {
+        -webkit-transition: .2s top;
+        -o-transition: .2s top;
+        transition: .2s top;
+    }
+}
+
+html.youplay_maintenance {
+    margin-top: 0 !important;
+}
+
+
+/* Fix toop full Banner */
+.youplay-banner.full {
+    overflow: hidden;
+}
+
+/* Added support for cover banner background */
+.cover-bg {
+    background-size: cover;
+}
+
+/* Buttons with Input inside */
+.btn > input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.01;
+}
+
+/* Fix table in banner when used [product_page] shortcode */
+.woocommerce div.product .youplay-banner form.cart .variations {
+    width: auto;
+}
+.woocommerce div.product .youplay-banner form.cart .variations td,
+.woocommerce div.product .youplay-banner form.cart .variations th {
+    line-height: inherit;
+    vertical-align: middle;
+}
+
+/* Hide onsale badge */
+.woocommerce span.onsale {
+    display: none;
+}
+
+/* Preloader */
+.woocommerce .blockUI.blockOverlay {
+    background: none !important;
+}
+.woocommerce .processing {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/* Radio position in paypal payment method */
+.woocommerce .payment_method_paypal .youplay-radio > label:after {
+    top: 12px;
+}
+.woocommerce .payment_method_paypal .youplay-radio > label:before {
+    top: 19px;
+}
+.woocommerce .payment_method_paypal .youplay-radio {
+    margin-bottom: 0;
+}
+#add_payment_method #payment div.payment_box::before,
+.woocommerce-cart #payment div.payment_box::before,
+.woocommerce-checkout #payment div.payment_box::before {
+    margin-left: 9px;
+}
+#add_payment_method #payment .payment_method_paypal .about_paypal,
+.woocommerce-cart #payment .payment_method_paypal .about_paypal,
+.woocommerce-checkout #payment .payment_method_paypal .about_paypal {
+    margin-left: 20px;
+}
+#add_payment_method #payment div.payment_box > p,
+.woocommerce-cart #payment div.payment_box > p,
+.woocommerce-checkout #payment div.payment_box > p {
+    margin-top: 0;
+}
+
+/* Checkbox for terms position */
+.woocommerce .wc-terms-and-conditions .youplay-checkbox > .input-checkbox {
+    display: block;
+    margin-top: 10px;
+}
+
+
+/* bbPress */
+.youplay-forum>li.body>ul:before,
+.youplay-forum>li.header:before {
+    -webkit-transform: none;
+            transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+}
+
+
+/* Sociality share */
+.sociality-share {
+    display: block;
+    font-size: 15px;
+    margin: 1rem 0;
+    margin-top: 3rem;
+    clear: both;
+
+    .sociality-share-button {
+        position: relative;
+        display: inline-block;
+        padding: 10px 30px;
+        margin-right: 5px;
+        margin-left: 5px;
+        color: $text_color;
+        text-decoration: none;
+        background: none;
+        border: none;
+        outline: none;
+        -webkit-box-shadow: none;
+                box-shadow: none;
+        cursor: pointer;
+        z-index: 1;
+
+        &:first-child {
+            margin-left: 0;
+        }
+
+        //// middle
+        //&.sociality-share-button-md {
+        //    padding: 15px 40px;
+        //}
+        //// large
+        //&.sociality-share-button-lg {
+        //    padding: 15px 50px;
+        //}
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: none;
+            border: 2px solid $text_color;
+            -webkit-transition: .3s background ease, .3s border ease;
+            -o-transition: .3s background ease, .3s border ease;
+            transition: .3s background ease, .3s border ease;
+            -webkit-transform: skew(-$skew_size);
+            -ms-transform: skew(-$skew_size);
+                transform: skew(-$skew_size);
+            z-index: -1;
+        }
+    }
+    // in light theme hover button change text color
+    @if ($theme == light) {
+        .sociality-share-button {
+            -webkit-transition: .3s color ease;
+            -o-transition: .3s color ease;
+            transition: .3s color ease;
+        }
+        .sociality-share-button:hover,
+        .sociality-share-button.active {
+            color: $back_darken_color;
+        }
+    }
+    // default
+    .sociality-share-button:hover::before,
+    .sociality-share-button:focus::before,
+    .sociality-share-button.focus::before,
+    .sociality-share-button:active::before,
+    .sociality-share-button.active::before,
+    .open > .dropdown-toggle.sociality-share-button::before {
+        background: $main_color;
+        border: 2px solid $main_color;
+    }
+
+    // counter
+    .sociality-share-counter {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 0 6px;
+        font-size: .6em;
+        background-color: $text_color;
+        color: $back_darken_color;
+        border-radius: 15px;
+        min-width: 20px;
+        text-align: center;
+        -webkit-transform: translateX(30%) translateY(-30%);
+        -ms-transform: translateX(30%) translateY(-30%);
+            transform: translateX(30%) translateY(-30%);
+    }
+}
+// fix thumbs buttons
+[data-sociality-like="thumbs"] svg.sociality-like-icon,
+[data-sociality-like="thumbs"] svg.sociality-dislike-icon {
+    padding: 0;
+    margin: 0 5px;
+}

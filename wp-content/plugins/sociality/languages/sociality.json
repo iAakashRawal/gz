@@ -1,0 +1,130 @@
+{
+   "domain": "sociality",
+   "locale_data": {
+      "sociality": {
+         "": {
+            "domain": "sociality"
+         },
+         "Sociality": [
+            ""
+         ],
+         "Social features for the theme authors": [
+            ""
+         ],
+         "nK": [
+            ""
+         ],
+         "https://nkdev.info": [
+            ""
+         ],
+         "Social Links": [
+            ""
+         ],
+         "Icon": [
+            ""
+         ],
+         "Likes": [
+            ""
+         ],
+         "Sharing": [
+            ""
+         ],
+         "Posts Author BIO": [
+            ""
+         ],
+         "To use these options you need to place actions in your theme templates.<br> See actions examples under settings on this page.": [
+            ""
+         ],
+         "Posts": [
+            ""
+         ],
+         "Disabled": [
+            ""
+         ],
+         "Heart": [
+            ""
+         ],
+         "Thumbs Up/Down": [
+            ""
+         ],
+         "Pages": [
+            ""
+         ],
+         "Comments": [
+            ""
+         ],
+         "WooCommerce Products": [
+            ""
+         ],
+         "WooCommerce Reviews": [
+            ""
+         ],
+         "bbPress Topics and Replies": [
+            ""
+         ],
+         "BuddyPress": [
+            ""
+         ],
+         "Custom Portfolio Type": [
+            ""
+         ],
+         "Place": [
+            ""
+         ],
+         "If you need to place sharing buttons in custom place, call <code>do_action('sociality_sharing');</code> in your plugin or theme code. Also available shortcode <code>[sociality_sharing]</code>": [
+            ""
+         ],
+         "Buttons": [
+            ""
+         ],
+         "Show Sharing Counters": [
+            ""
+         ],
+         "Yes": [
+            ""
+         ],
+         "If you need to place bio block in custom place, call <code>do_action('sociality_author_bio');</code> in your plugin or theme code. Also available shortcode <code>[sociality_author_bio]</code>": [
+            ""
+         ],
+         "Show Avatar": [
+            ""
+         ],
+         "Show Name": [
+            ""
+         ],
+         "Show Biographical Info": [
+            ""
+         ],
+         "Show Social Links": [
+            ""
+         ],
+         "Yes. <small>[You can set social links in your profile settings page]</small>": [
+            ""
+         ],
+         "Sociality Settings": [
+            ""
+         ],
+         "Share to WeChat": [
+            ""
+         ],
+         "This page requires JavaScript to be enabled in your browser.": [
+            ""
+         ],
+         "\"Scan QR Code\" in WeChat and tap <span class=\"sociality-share-wechat-share-how\">···</span> to share.": [
+            ""
+         ],
+         "Copy the link and open WeChat to share.": [
+            ""
+         ],
+         "Copied!": [
+            ""
+         ],
+         "Open WeChat": [
+            ""
+         ],
+         "Share page on %s": [
+            ""
+         ]
+      }
+   }
+}

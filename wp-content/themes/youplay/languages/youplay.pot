@@ -1,0 +1,3889 @@
+# Copyright (C) 2019 Youplay
+# This file is distributed under the same license as the Youplay package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Youplay\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: nK <https://nkdev.info>\n"
+"Last-Translator: nK <https://nkdev.info>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: dist/youplay/admin/admin.php:92, dist/youplay/admin/theme-options.php:521, dist/youplay/admin/theme-options.php:656
+msgid "Dark"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:118, dist/youplay/admin/theme-options.php:526, dist/youplay/admin/theme-options.php:661
+msgid "Shooter"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:136, dist/youplay/admin/theme-options.php:531, dist/youplay/admin/theme-options.php:666
+msgid "Anime"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:155, dist/youplay/admin/theme-options.php:536, dist/youplay/admin/theme-options.php:671
+msgid "Light"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:182
+msgid "Dashboard"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:186
+msgid "Plugins"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:190
+msgid "Demo Import"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:198
+msgid "Options"
+msgstr ""
+
+#: dist/youplay/admin/admin.php:204
+msgid "Support"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: dist/youplay/admin/menu/backend-walker.php:118
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: dist/youplay/admin/menu/backend-walker.php:122
+msgid "%s (Pending)"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:129
+msgid "sub item"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:144
+msgid "Move up"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:157
+msgid "Move down"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:161
+msgid "Edit menu item"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:161, dist/youplay/bbpress/user-details.php:56, dist/youplay/inc/template-tags.php:387, dist/youplay/template-parts/content-page.php:22
+msgid "Edit"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:169, dist/youplay/admin/theme-options.php:3684, dist/youplay/admin/theme-options.php:3745, dist/youplay/admin/theme-options.php:3806, dist/youplay/admin/theme-options.php:3867, dist/youplay/admin/theme-options.php:3928, dist/youplay/admin/theme-options.php:3989
+msgid "URL"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:176
+msgid "Navigation Label"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:182
+msgid "Title Attribute"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:189
+msgid "Open link in a new tab"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:196
+msgid "Mega Menu"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:202
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:208
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:214, dist/youplay/woocommerce/single-product/tabs/description.php:16
+msgid "Description"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:216
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:225
+msgid "Move"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:226
+msgid "Up one"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:227
+msgid "Down one"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:230
+msgid "To the top"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:236
+msgid "Original: %s"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:249
+msgid "Remove"
+msgstr ""
+
+#: dist/youplay/admin/menu/backend-walker.php:250, dist/youplay/buddypress/activity/entry.php:134, dist/youplay/buddypress/forums/index.php:208, dist/youplay/plugins/login-with-ajax/default/widget_out.php:88, dist/youplay/woocommerce/myaccount/my-orders.php:94
+msgid "Cancel"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:22, dist/youplay/admin/theme-metaboxes.php:81, dist/youplay/admin/theme-metaboxes.php:112, dist/youplay/admin/theme-metaboxes.php:137, dist/youplay/admin/theme-metaboxes.php:235, dist/youplay/admin/theme-metaboxes.php:259, dist/youplay/admin/theme-metaboxes.php:283, dist/youplay/admin/theme-metaboxes.php:344, dist/youplay/admin/theme-metaboxes.php:383, dist/youplay/admin/theme-metaboxes.php:407, dist/youplay/admin/theme-metaboxes.php:496, dist/youplay/admin/theme-metaboxes.php:520, dist/youplay/admin/theme-metaboxes.php:574, dist/youplay/admin/theme-metaboxes.php:608, dist/youplay/admin/theme-metaboxes.php:632, dist/youplay/admin/theme-metaboxes.php:678, dist/youplay/admin/theme-metaboxes.php:813, dist/youplay/admin/theme-metaboxes.php:837, dist/youplay/admin/theme-metaboxes.php:891, dist/youplay/admin/theme-metaboxes.php:925, dist/youplay/admin/theme-metaboxes.php:949, dist/youplay/admin/theme-metaboxes.php:1031, dist/youplay/admin/theme-metaboxes.php:1085, dist/youplay/admin/theme-metaboxes.php:1119, dist/youplay/admin/theme-metaboxes.php:1143
+msgid "Default"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:27
+msgid "Content"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:32
+msgid "Content + Sidebar"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:37
+msgid "Sidebar + Content"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:42
+msgid "Banner + Content"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:47
+msgid "Banner + Content + Sidebar"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:52
+msgid "Banner + Sidebar + Content"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:66, dist/youplay/admin/theme-options.php:392
+msgid "Background"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:74, dist/youplay/admin/theme-options.php:407
+msgid "Enable Background"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:86, dist/youplay/admin/theme-metaboxes.php:117, dist/youplay/admin/theme-metaboxes.php:142, dist/youplay/admin/theme-metaboxes.php:240, dist/youplay/admin/theme-metaboxes.php:264, dist/youplay/admin/theme-metaboxes.php:288, dist/youplay/admin/theme-metaboxes.php:388, dist/youplay/admin/theme-metaboxes.php:501, dist/youplay/admin/theme-metaboxes.php:525, dist/youplay/admin/theme-metaboxes.php:613, dist/youplay/admin/theme-metaboxes.php:683, dist/youplay/admin/theme-metaboxes.php:818, dist/youplay/admin/theme-metaboxes.php:842, dist/youplay/admin/theme-metaboxes.php:930, dist/youplay/admin/theme-metaboxes.php:1036, dist/youplay/admin/theme-metaboxes.php:1124
+msgid "On"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:91, dist/youplay/admin/theme-metaboxes.php:122, dist/youplay/admin/theme-metaboxes.php:147, dist/youplay/admin/theme-metaboxes.php:245, dist/youplay/admin/theme-metaboxes.php:269, dist/youplay/admin/theme-metaboxes.php:293, dist/youplay/admin/theme-metaboxes.php:393, dist/youplay/admin/theme-metaboxes.php:506, dist/youplay/admin/theme-metaboxes.php:530, dist/youplay/admin/theme-metaboxes.php:618, dist/youplay/admin/theme-metaboxes.php:688, dist/youplay/admin/theme-metaboxes.php:823, dist/youplay/admin/theme-metaboxes.php:847, dist/youplay/admin/theme-metaboxes.php:935, dist/youplay/admin/theme-metaboxes.php:1041, dist/youplay/admin/theme-metaboxes.php:1129
+msgid "Off"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:98, dist/youplay/admin/theme-metaboxes.php:330, dist/youplay/admin/theme-metaboxes.php:560, dist/youplay/admin/theme-metaboxes.php:877, dist/youplay/admin/theme-options.php:422, dist/youplay/admin/theme-options.php:1536, dist/youplay/admin/theme-options.php:1707, dist/youplay/admin/theme-options.php:1809, dist/youplay/admin/theme-options.php:2135, dist/youplay/admin/theme-options.php:2237, dist/youplay/admin/theme-options.php:2414, dist/youplay/admin/theme-options.php:2907, dist/youplay/admin/theme-options.php:3078, dist/youplay/admin/theme-options.php:3249
+msgid "Image"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:105, dist/youplay/admin/theme-options.php:437
+msgid "Cover"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:106, dist/youplay/admin/theme-options.php:438
+msgid "Cover image if ON. Repeat image if OFF."
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:130, dist/youplay/admin/theme-options.php:452
+msgid "Fixed"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:131, dist/youplay/admin/theme-options.php:453
+msgid "Fixed attachment (not scroll with page)"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:155, dist/youplay/admin/theme-options.php:347, dist/youplay/admin/theme-options.php:467, dist/youplay/admin/theme-options.php:3442
+msgid "Parallax"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:156
+msgid "Change background position on scroll from top screen to bottom. Set 0 to disable. Set \"default\" to use value from Options panel."
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:163
+msgid "Custom Background Opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:196, dist/youplay/admin/theme-metaboxes.php:457, dist/youplay/admin/theme-metaboxes.php:774, dist/youplay/admin/theme-metaboxes.php:992
+msgid "Youplay Custom Options"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:204, dist/youplay/admin/theme-metaboxes.php:212, dist/youplay/admin/theme-metaboxes.php:465, dist/youplay/admin/theme-metaboxes.php:473, dist/youplay/admin/theme-metaboxes.php:782, dist/youplay/admin/theme-metaboxes.php:790, dist/youplay/admin/theme-metaboxes.php:1000, dist/youplay/admin/theme-metaboxes.php:1008, dist/youplay/admin/theme-options.php:1460, dist/youplay/admin/theme-options.php:1646, dist/youplay/admin/theme-options.php:2074, dist/youplay/admin/theme-options.php:2337, dist/youplay/admin/theme-options.php:2524, dist/youplay/admin/theme-options.php:2831, dist/youplay/admin/theme-options.php:3017, dist/youplay/admin/theme-options.php:3188
+msgid "Layout"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:221, dist/youplay/admin/theme-metaboxes.php:482, dist/youplay/admin/theme-metaboxes.php:799, dist/youplay/admin/theme-metaboxes.php:1017, dist/youplay/functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:228, dist/youplay/admin/theme-options.php:1476
+msgid "Show Title"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:252, dist/youplay/admin/theme-metaboxes.php:489, dist/youplay/admin/theme-metaboxes.php:806, dist/youplay/admin/theme-metaboxes.php:1024, dist/youplay/admin/theme-options.php:1491, dist/youplay/admin/theme-options.php:1662, dist/youplay/admin/theme-options.php:2090, dist/youplay/admin/theme-options.php:2353, dist/youplay/admin/theme-options.php:2540, dist/youplay/admin/theme-options.php:2862, dist/youplay/admin/theme-options.php:3033, dist/youplay/admin/theme-options.php:3204
+msgid "Boxed Content"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:276, dist/youplay/admin/theme-metaboxes.php:513, dist/youplay/admin/theme-metaboxes.php:830
+msgid "Show Comments"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:300
+msgid "Remove Content Padding"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:301
+msgid "Remove padding from top and bottom of content. May be useful with carousels on top and bottom."
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:307, dist/youplay/admin/theme-metaboxes.php:537, dist/youplay/admin/theme-metaboxes.php:854, dist/youplay/admin/theme-metaboxes.php:1048
+msgid "Use Revolution Slider"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:308, dist/youplay/admin/theme-metaboxes.php:538, dist/youplay/admin/theme-metaboxes.php:855, dist/youplay/admin/theme-metaboxes.php:1049
+msgid "Title will be hidden"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:314, dist/youplay/admin/theme-metaboxes.php:544, dist/youplay/admin/theme-metaboxes.php:861, dist/youplay/admin/theme-metaboxes.php:1055
+msgid "Slider"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:322, dist/youplay/admin/theme-metaboxes.php:552, dist/youplay/admin/theme-metaboxes.php:869, dist/youplay/admin/theme-metaboxes.php:1063, dist/youplay/admin/theme-options.php:1506, dist/youplay/admin/theme-options.php:1677, dist/youplay/admin/theme-options.php:2105, dist/youplay/admin/theme-options.php:2384, dist/youplay/admin/theme-options.php:2555, dist/youplay/admin/theme-options.php:2877, dist/youplay/admin/theme-options.php:3048, dist/youplay/admin/theme-options.php:3219
+msgid "Banner"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:337, dist/youplay/admin/theme-metaboxes.php:567, dist/youplay/admin/theme-metaboxes.php:884, dist/youplay/admin/theme-metaboxes.php:1078, dist/youplay/admin/theme-options.php:1551, dist/youplay/admin/theme-options.php:1722, dist/youplay/admin/theme-options.php:2150, dist/youplay/admin/theme-options.php:2429, dist/youplay/admin/theme-options.php:2600, dist/youplay/admin/theme-options.php:2922, dist/youplay/admin/theme-options.php:3093, dist/youplay/admin/theme-options.php:3264
+msgid "Banner Size"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:349, dist/youplay/admin/theme-metaboxes.php:579, dist/youplay/admin/theme-metaboxes.php:896, dist/youplay/admin/theme-metaboxes.php:1090, dist/youplay/admin/theme-options.php:1566, dist/youplay/admin/theme-options.php:1737, dist/youplay/admin/theme-options.php:2165, dist/youplay/admin/theme-options.php:2444, dist/youplay/admin/theme-options.php:2615, dist/youplay/admin/theme-options.php:2937, dist/youplay/admin/theme-options.php:3108, dist/youplay/admin/theme-options.php:3279
+msgid "Full"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:354, dist/youplay/admin/theme-options.php:1571, dist/youplay/admin/theme-options.php:1742, dist/youplay/admin/theme-options.php:2170, dist/youplay/admin/theme-options.php:2449, dist/youplay/admin/theme-options.php:2620, dist/youplay/admin/theme-options.php:2942, dist/youplay/admin/theme-options.php:3113, dist/youplay/admin/theme-options.php:3284
+msgid "Big"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:359, dist/youplay/admin/theme-metaboxes.php:584, dist/youplay/admin/theme-metaboxes.php:901, dist/youplay/admin/theme-metaboxes.php:1095, dist/youplay/admin/theme-options.php:1576, dist/youplay/admin/theme-options.php:1747, dist/youplay/admin/theme-options.php:2175, dist/youplay/admin/theme-options.php:2454, dist/youplay/admin/theme-options.php:2625, dist/youplay/admin/theme-options.php:2947, dist/youplay/admin/theme-options.php:3118, dist/youplay/admin/theme-options.php:3289
+msgid "Mid"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:364, dist/youplay/admin/theme-metaboxes.php:589, dist/youplay/admin/theme-metaboxes.php:906, dist/youplay/admin/theme-metaboxes.php:1100, dist/youplay/admin/theme-options.php:1581, dist/youplay/admin/theme-options.php:1752, dist/youplay/admin/theme-options.php:2180, dist/youplay/admin/theme-options.php:2459, dist/youplay/admin/theme-options.php:2630, dist/youplay/admin/theme-options.php:2952, dist/youplay/admin/theme-options.php:3123, dist/youplay/admin/theme-options.php:3294
+msgid "Small"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:369, dist/youplay/admin/theme-metaboxes.php:594, dist/youplay/admin/theme-metaboxes.php:911, dist/youplay/admin/theme-metaboxes.php:1105, dist/youplay/admin/theme-options.php:1586, dist/youplay/admin/theme-options.php:1757, dist/youplay/admin/theme-options.php:2185, dist/youplay/admin/theme-options.php:2464, dist/youplay/admin/theme-options.php:2635, dist/youplay/admin/theme-options.php:2957, dist/youplay/admin/theme-options.php:3128, dist/youplay/admin/theme-options.php:3299
+msgid "Extra Small"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:376, dist/youplay/admin/theme-metaboxes.php:601, dist/youplay/admin/theme-metaboxes.php:918, dist/youplay/admin/theme-metaboxes.php:1112, dist/youplay/admin/theme-options.php:1593, dist/youplay/admin/theme-options.php:1764, dist/youplay/admin/theme-options.php:2192, dist/youplay/admin/theme-options.php:2471, dist/youplay/admin/theme-options.php:2642, dist/youplay/admin/theme-options.php:2964, dist/youplay/admin/theme-options.php:3135, dist/youplay/admin/theme-options.php:3306
+msgid "Banner Parallax"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:400, dist/youplay/admin/theme-metaboxes.php:625, dist/youplay/admin/theme-metaboxes.php:942, dist/youplay/admin/theme-metaboxes.php:1136, dist/youplay/admin/theme-options.php:1608, dist/youplay/admin/theme-options.php:1779, dist/youplay/admin/theme-options.php:2207, dist/youplay/admin/theme-options.php:2486, dist/youplay/admin/theme-options.php:2657, dist/youplay/admin/theme-options.php:2979, dist/youplay/admin/theme-options.php:3150, dist/youplay/admin/theme-options.php:3321, dist/youplay/admin/theme-options.php:3457
+msgid "Parallax Image Speed"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:412, dist/youplay/admin/theme-metaboxes.php:637, dist/youplay/admin/theme-metaboxes.php:954, dist/youplay/admin/theme-metaboxes.php:1148, dist/youplay/admin/theme-options.php:541
+msgid "Custom"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:429, dist/youplay/admin/theme-metaboxes.php:654
+msgid "Banner Text"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:430
+msgid "Leave blank if you want to display the name of the page"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:655
+msgid "Leave blank if you want to display the name of the post"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:663, dist/youplay/admin/theme-options.php:1824
+msgid "Review"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:671, dist/youplay/admin/theme-options.php:1839
+msgid "Show Review"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:695
+msgid "Rating"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:710
+msgid "First List"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:726
+msgid "Second List"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:752, dist/youplay/admin/theme-options.php:3427, dist/youplay/admin/theme-options.php:3622
+msgid "Text"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1071
+msgid "Image (by default used Featured Image)"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1166
+msgid "Aditional Parameters"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1174
+msgid "Show Additional Params"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1181
+msgid "Title"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1183
+msgid "System Requirements"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1188, dist/youplay/admin/theme-options.php:3358
+msgid "Content Text"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1235, dist/youplay/admin/theme-options.php:4248
+msgid "Choose One"
+msgstr ""
+
+#: dist/youplay/admin/theme-metaboxes.php:1240
+msgid "No Sidebars Found"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:155
+msgid "General"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:159
+msgid "Theme Style"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:163
+msgid "Fonts"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:167
+msgid "Navigation"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:171
+msgid "Single Page"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:175
+msgid "Single Post"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:179
+msgid "Single Match"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:183
+msgid "Posts Archive"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:187
+msgid "WooCommerce"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:191
+msgid "bbPress"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:195
+msgid "BuddyPress"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:199
+msgid "Search Page"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:203
+msgid "404"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:207
+msgid "Footer"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:211
+msgid "Twitter"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:215
+msgid "Instagram"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:228, dist/youplay/admin/theme-options.php:1119, dist/youplay/admin/theme-options.php:1445, dist/youplay/admin/theme-options.php:1631, dist/youplay/admin/theme-options.php:2059, dist/youplay/admin/theme-options.php:2322, dist/youplay/admin/theme-options.php:2509, dist/youplay/admin/theme-options.php:2816, dist/youplay/admin/theme-options.php:3002, dist/youplay/admin/theme-options.php:3173, dist/youplay/admin/theme-options.php:3412
+msgid "Main"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:243
+msgid "Custom CSS"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:244
+msgid "Custom CSS for example: html {font-size:10px;}"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:258, dist/youplay/admin/theme-options.php:259
+msgid "Custom JS"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:273
+msgid "RTL Mode"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:288
+msgid "Favicon"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:303
+msgid "Show Preloader"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:318
+msgid "Preloader Logo"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:333
+msgid "Fade Between Pages"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:362
+msgid "Boxed"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:377
+msgid "Boxed Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:468
+msgid "Change background position on scroll from top screen to bottom. Set 0 to disable"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:482
+msgid "Content background color opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:506, dist/youplay/admin/theme-options.php:2706
+msgid "Style"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:549
+msgid "Colors"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:596
+msgid "If you want change colors - select Custom theme style."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:611
+msgid "To generate custom styles you should install nK Themes Helper plugin"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:626
+msgid "Required Theme License Activation"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:627
+msgid "Custom styles can only be used in the activated theme. Please visit the <a href=\"%s\" target=\"_blank\">theme dashboard page</a> and activate the theme."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:641
+msgid "Scheme From"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:642
+msgid "When you change this, all custom options will be changed to selected scheme."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:678
+msgid "Main Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:693
+msgid "Back Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:708
+msgid "Back Grey Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:723
+msgid "Text Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:738
+msgid "Primary Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:753
+msgid "Success Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:768
+msgid "Info Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:783
+msgid "Warning Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:798
+msgid "Danger Color"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:814
+msgid "Sizes"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:829
+msgid "If you want change sizes - select Custom theme style."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:844
+msgid "Skew Size"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:845
+msgid "All angled items (buttons, images, carousels, etc) uses this parameter."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:859
+msgid "Navbar Height"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:874
+msgid "Navbar Small Height"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:889
+msgid "Banners Image Opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:890
+msgid "All banners background image opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:904
+msgid "Images Opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:905
+msgid "All angled images backgrounds opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:919
+msgid "Images Hover Opacity"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:920
+msgid "All angled images opacity on mouse over"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:944
+msgid "Body"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:964
+msgid "Banner Heading"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:983
+msgid "Heading H1"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1001
+msgid "Heading H2"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1019
+msgid "Heading H3"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1037
+msgid "Heading H4"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1055
+msgid "Heading H5"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1073
+msgid "Heading H6"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1091
+msgid "Google Font Load"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1134
+msgid "Show Navigation"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1149
+msgid "Small Navigation"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1164
+msgid "Show Logo"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1179
+msgid "Logo"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1194
+msgid "Logo Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1195, dist/youplay/admin/theme-options.php:1210
+msgid "Logo width in pixels"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1209
+msgid "Small Logo Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1224
+msgid "Show Search"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1240
+msgid "Shopping Cart"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1255, dist/youplay/admin/theme-options.php:1331, dist/youplay/admin/theme-options.php:3517, dist/youplay/admin/theme-options.php:3607
+msgid "Show"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1270
+msgid "Show Icon"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1285
+msgid "Show Count"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1300
+msgid "Show Total"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1316
+msgid "User Login"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1332, dist/youplay/admin/theme-options.php:1393
+msgid "First of all you should install plugin - %s"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1346
+msgid "Show Logged-in Username"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1361
+msgid "Custom Registration URL (if empty - used popup)"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1377
+msgid "WPML"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1392
+msgid "Show Language Selector"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1407
+msgid "Show Country Flag"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1422
+msgid "Show Country Name"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1521, dist/youplay/admin/theme-options.php:1692, dist/youplay/admin/theme-options.php:2120, dist/youplay/admin/theme-options.php:2399, dist/youplay/admin/theme-options.php:2570, dist/youplay/admin/theme-options.php:2892, dist/youplay/admin/theme-options.php:3063, dist/youplay/admin/theme-options.php:3234
+msgid "Banner is not shown with selected Layout."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1794, dist/youplay/admin/theme-options.php:2222
+msgid "No Image"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1854
+msgid "Max Rating"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1869
+msgid "First Column Title"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1884
+msgid "First Column Before Item"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1899
+msgid "Second Column Title"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1914
+msgid "Second Column Before Item"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1931, dist/youplay/admin/theme-options.php:2254
+msgid "Meta"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1946
+msgid "Show Tags"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1961
+msgid "Show Author"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1976
+msgid "Show Publish Date"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:1991
+msgid "Show Categories"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2006, dist/youplay/admin/theme-options.php:2269
+msgid "Show Views"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2021, dist/youplay/admin/theme-options.php:2284
+msgid "Show Likes"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2022
+msgid "For this functionality required Sociality plugin, install it from Appearance > Install Plugins"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2036, dist/youplay/admin/theme-options.php:2299
+msgid "Show Comments Count"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2368
+msgid "Images Size"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2586
+msgid "Banner uses featured image. You can set it in product edit page."
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2673
+msgid "Shop Page"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2689
+msgid "This options will be applied to Shop page. %s"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2721
+msgid "Grid"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2726
+msgid "Row"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2733, dist/youplay/admin/theme-options.php:2847
+msgid "Breadcrumbs"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2748
+msgid "Result count text"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2763
+msgid "\"Order by\" field"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2778
+msgid "Ratings"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:2793
+msgid "\"Add to cart\" buttons"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3343
+msgid "Page Title"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3345
+msgid "404 - Page Not Found ;("
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3373
+msgid "Show Search Form"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3388, dist/youplay/admin/theme-options.php:3487
+msgid "Background Image"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3472
+msgid "Show Background Image"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3502
+msgid "Widgets"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3532
+msgid "Widget 1 Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3547
+msgid "Widget 2 Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3562
+msgid "Widget 3 Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3577
+msgid "Widget 4 Width"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3592
+msgid "Social"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3638
+msgid "First Social Link"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3669, dist/youplay/admin/theme-options.php:3730, dist/youplay/admin/theme-options.php:3791, dist/youplay/admin/theme-options.php:3852, dist/youplay/admin/theme-options.php:3913, dist/youplay/admin/theme-options.php:3974
+msgid "Label"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3670
+msgid "Like on Facebook"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3699
+msgid "Second Social Link"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3731
+msgid "Follow on Twitter"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3760
+msgid "Third Social Link"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3792
+msgid "Follow on Google+"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3821
+msgid "Fourth Social Link"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3853
+msgid "Watch on Youtube"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3882
+msgid "Fifth Social Link"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3914
+msgid "Watch on Twitch"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3943
+msgid "Sixth Social Link"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:3975
+msgid "Subscribe on Steam"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4012
+msgid "How to create Twitter API keys you can read here (or use google):  - %s"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4027
+msgid "Consumer Key"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4042
+msgid "Consumer Secret"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4057, dist/youplay/admin/theme-options.php:4141
+msgid "Access Token"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4072
+msgid "Access Token Secret"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4087, dist/youplay/admin/theme-options.php:4171
+msgid "Cache Time in seconds"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4102
+msgid "Show Replies"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4126
+msgid "How to generate access token (or use google) - %s"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4126
+msgid "How to get user ID (or use google) - %s"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4156
+msgid "User ID"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4253
+msgid "No Sliders Found"
+msgstr ""
+
+#: dist/youplay/admin/theme-options.php:4257
+msgid "Sorry! Revolution Slider is not Installed or Activated"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:393, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:912, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2618, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:394, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:395, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:1019, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:1206, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2639, dist/youplay/woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2808, dist/youplay/bbpress/form-topic-tag.php:45, dist/youplay/woocommerce/cart/shipping-calculator.php:96
+msgid "Update"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2811, dist/youplay/buddypress/members/activate.php:56, dist/youplay/buddypress/members/activate.php:57
+msgid "Activate"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3594, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3594, dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: dist/youplay/admin/vendor/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: dist/youplay/bbpress.php:45
+msgid "Role"
+msgstr ""
+
+#: dist/youplay/bbpress.php:49, dist/youplay/bbpress/content-statistics.php:28
+msgid "Topics"
+msgstr ""
+
+#: dist/youplay/bbpress.php:53, dist/youplay/bbpress/content-statistics.php:33, dist/youplay/bbpress/loop-forums.php:22, dist/youplay/bbpress/loop-topics.php:27
+msgid "Replies"
+msgstr ""
+
+#: dist/youplay/bbpress/content-single-topic-lead.php:18, dist/youplay/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: dist/youplay/bbpress/content-single-topic-lead.php:22, dist/youplay/bbpress/content-single-topic-lead.php:94, dist/youplay/bbpress/loop-topics.php:25, dist/youplay/buddypress/forums/forums-loop.php:52
+msgid "Topic"
+msgstr ""
+
+#: dist/youplay/bbpress/content-single-topic.php:25, dist/youplay/bbpress/form-topic.php:23
+msgid "Tagged:"
+msgstr ""
+
+#: dist/youplay/bbpress/content-statistics.php:18
+msgid "Registered Users"
+msgstr ""
+
+#: dist/youplay/bbpress/content-statistics.php:23
+msgid "Forums"
+msgstr ""
+
+#: dist/youplay/bbpress/content-statistics.php:38
+msgid "Topic Tags"
+msgstr ""
+
+#: dist/youplay/bbpress/content-statistics.php:45
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: dist/youplay/bbpress/content-statistics.php:54
+msgid "Hidden Topics"
+msgstr ""
+
+#: dist/youplay/bbpress/content-statistics.php:65
+msgid "Hidden Replies"
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: dist/youplay/bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: dist/youplay/bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: dist/youplay/bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: dist/youplay/bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: dist/youplay/bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:35, dist/youplay/bbpress/form-topic.php:52
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:37
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:47
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:55, dist/youplay/bbpress/form-reply.php:43, dist/youplay/bbpress/form-topic.php:72
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:67
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:82, dist/youplay/bbpress/form-reply.php:63, dist/youplay/bbpress/form-topic.php:101
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:138, dist/youplay/bbpress/form-reply-move.php:72, dist/youplay/bbpress/form-reply.php:134, dist/youplay/bbpress/form-topic-merge.php:94, dist/youplay/bbpress/form-topic-split.php:97, dist/youplay/bbpress/form-topic.php:205, dist/youplay/inc/template-tags.php:531
+msgid "Submit"
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:161
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:170
+msgid "You cannot create new forums."
+msgstr ""
+
+#: dist/youplay/bbpress/form-forum.php:170
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: dist/youplay/bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:29
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:33
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:41, dist/youplay/bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:49, dist/youplay/bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:68, dist/youplay/bbpress/form-topic-merge.php:90, dist/youplay/bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:28
+msgid "Reply To: %s"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:35
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:74
+msgid "Tags:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:93, dist/youplay/bbpress/form-topic.php:170
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:97, dist/youplay/bbpress/form-topic.php:174
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:113, dist/youplay/bbpress/form-topic.php:189
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:117, dist/youplay/bbpress/form-topic.php:192
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:155
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:163, dist/youplay/bbpress/form-topic.php:226
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:172
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: dist/youplay/bbpress/form-reply.php:172
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: dist/youplay/bbpress/form-search.php:11
+msgid "Search by Forum:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-search.php:19, dist/youplay/buddypress/functions.php:254
+msgid "Search"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:29
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:31
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:35
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:39
+msgid "Destination"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:43
+msgid "Merge with this topic:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:57
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:65, dist/youplay/bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:72
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:77
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:82
+msgid "Merge topic tags"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:107, dist/youplay/bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-merge.php:107, dist/youplay/bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:29
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:33
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:29
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:59, dist/youplay/bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:73
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:88, dist/youplay/bbpress/form-topic-tag.php:102, dist/youplay/buddypress/activity/comment.php:38, dist/youplay/buddypress/members/single/messages/single.php:44
+msgid "Delete"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:96
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic-tag.php:102
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:54
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:54
+msgid "Create New Topic"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:64
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:85
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:87
+msgid "Topic Title"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:111
+msgid "Topic Tags:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:113
+msgid "Tags"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:124
+msgid "Forum:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:128
+msgid "(No Forum)"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:142
+msgid "Topic Type:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:152
+msgid "Topic Status:"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:194
+msgid "Reason"
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:235
+msgid "You cannot create new topics."
+msgstr ""
+
+#: dist/youplay/bbpress/form-topic.php:235
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:14, dist/youplay/buddypress/members/single/profile/profile-wp.php:35, dist/youplay/inc/template-tags.php:504
+msgid "Name"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:20
+msgid "First Name"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:25
+msgid "Last Name"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:30
+msgid "Nickname"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:35
+msgid "Display Name"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:45
+msgid "Contact Info"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:49, dist/youplay/buddypress/members/single/profile/profile-wp.php:53
+msgid "Website"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:66
+msgid "About Yourself"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:66
+msgid "About the user"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:70
+msgid "Biographical Info"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:78
+msgid "Account"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:82, dist/youplay/bbpress/form-user-login.php:15, dist/youplay/bbpress/form-user-register.php:21, dist/youplay/buddypress/members/register.php:78, dist/youplay/woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:87, dist/youplay/bbpress/form-user-register.php:26, dist/youplay/buddypress/members/single/settings/general.php:32, dist/youplay/inc/template-tags.php:506
+msgid "Email"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:100
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:106, dist/youplay/buddypress/members/single/settings/general.php:44
+msgid "New Password"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:107
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:116
+msgid "Type your new password again."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:120
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:127
+msgid "User Role"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:133
+msgid "Network Role"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:136
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:154
+msgid "Update Profile"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-edit.php:154
+msgid "Update User"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-login.php:13, dist/youplay/bbpress/form-user-login.php:33, dist/youplay/plugins/login-with-ajax/default/widget_out.php:41
+msgid "Log In"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-login.php:20, dist/youplay/inc/template-tags.php:475, dist/youplay/woocommerce/global/form-login.php:40, dist/youplay/woocommerce/myaccount/form-login.php:43, dist/youplay/woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-login.php:27
+msgid "Keep me signed in"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-lost-pass.php:13
+msgid "Lost Password"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-lost-pass.php:15
+msgid "Username or Email"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-lost-pass.php:22
+msgid "Reset My Password"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-register.php:13
+msgid "Create an Account"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-register.php:16
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-register.php:18
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-register.php:33, dist/youplay/plugins/login-with-ajax/default/widget_out.php:59, dist/youplay/plugins/login-with-ajax/default/widget_out.php:62, dist/youplay/plugins/login-with-ajax/default/widget_out.php:101, dist/youplay/plugins/login-with-ajax/default/widget_out.php:129, dist/youplay/woocommerce/myaccount/form-login.php:72, dist/youplay/woocommerce/myaccount/form-login.php:108, dist/youplay/woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-roles.php:12
+msgid "Blog Role"
+msgstr ""
+
+#: dist/youplay/bbpress/form-user-roles.php:18
+msgid "Forum Role"
+msgstr ""
+
+#: dist/youplay/bbpress/loop-forums.php:20
+msgid "Forum"
+msgstr ""
+
+#: dist/youplay/bbpress/loop-forums.php:21, dist/youplay/bbpress/loop-topics.php:26
+msgid "Voices"
+msgstr ""
+
+#: dist/youplay/bbpress/loop-forums.php:22, dist/youplay/bbpress/loop-topics.php:27, dist/youplay/buddypress/forums/forums-loop.php:53
+msgid "Posts"
+msgstr ""
+
+#: dist/youplay/bbpress/loop-forums.php:23, dist/youplay/bbpress/loop-topics.php:28, dist/youplay/buddypress/forums/forums-loop.php:54
+msgid "Freshness"
+msgstr ""
+
+#: dist/youplay/bbpress/loop-search-reply.php:31, dist/youplay/bbpress/loop-single-reply.php:32
+msgid "in reply to: "
+msgstr ""
+
+#: dist/youplay/bbpress/loop-search-topic.php:70, dist/youplay/bbpress/loop-single-topic.php:70
+msgid "Started by: %1$s"
+msgstr ""
+
+#: dist/youplay/bbpress/loop-search-topic.php:78, dist/youplay/bbpress/loop-single-topic.php:78
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:20, dist/youplay/buddypress/members/single/profile/profile-wp.php:28
+msgid "%s's Profile"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:20, dist/youplay/bbpress/user-profile.php:15, dist/youplay/plugins/login-with-ajax/default/widget_in.php:77
+msgid "Profile"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:26
+msgid "%s's Topics Started"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:26
+msgid "Topics Started"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:32
+msgid "%s's Replies Created"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:32
+msgid "Replies Created"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:39
+msgid "%s's Favorites"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:39
+msgid "Favorites"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:49
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:49
+msgid "Subscriptions"
+msgstr ""
+
+#: dist/youplay/bbpress/user-details.php:56
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: dist/youplay/bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: dist/youplay/bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: dist/youplay/bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: dist/youplay/bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: dist/youplay/bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: dist/youplay/bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr ""
+
+#: dist/youplay/bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: dist/youplay/bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: dist/youplay/bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: dist/youplay/buddypress.php:20, dist/youplay/template-parts/content-2.php:47, dist/youplay/template-parts/content-page.php:15, dist/youplay/template-parts/content-search.php:35, dist/youplay/template-parts/content-single-match.php:13, dist/youplay/template-parts/content-single.php:13, dist/youplay/template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/activity-loop.php:39
+msgid "Load More"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/activity-loop.php:47
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: dist/youplay/buddypress/activity/comment.php:32, dist/youplay/buddypress/groups/single/forum/edit.php:23, dist/youplay/buddypress/groups/single/forum/topic.php:189
+msgid "Reply"
+msgstr ""
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: activity timestamp
+#: dist/youplay/buddypress/activity/comment.php:57
+msgid "replied <a href=\"%1$s\" class=\"activity-time-since\"><span class=\"time-since\">%2$s</span></a>"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:63, dist/youplay/buddypress/activity/entry.php:63
+msgid "View Conversation"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:71
+msgid "Comment %s"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:79
+msgid "Mark as Favorite"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:79
+msgid "Favorite"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:83, dist/youplay/buddypress/activity/entry.php:83
+msgid "Remove Favorite"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:127, dist/youplay/inc/template-tags.php:521
+msgid "Comment"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/entry.php:131, dist/youplay/buddypress/activity/entry.php:132
+msgid "Post"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/index.php:40, dist/youplay/buddypress/groups/single/activity.php:12
+msgid "RSS Feed"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/index.php:40, dist/youplay/buddypress/groups/single/activity.php:12
+msgid "RSS"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/index.php:52, dist/youplay/buddypress/groups/single/activity.php:24, dist/youplay/buddypress/members/single/activity.php:20
+msgid "Show:"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/index.php:55, dist/youplay/buddypress/groups/single/activity.php:27, dist/youplay/buddypress/members/single/activity.php:23
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/post-form.php:27
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/post-form.php:29
+msgid "What's new, %s?"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/post-form.php:34
+msgid "Post what's new"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/post-form.php:42, dist/youplay/buddypress/activity/post-form.php:43
+msgid "Post Update"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/post-form.php:51, dist/youplay/buddypress/activity/post-form.php:53
+msgid "Post in"
+msgstr ""
+
+#: dist/youplay/buddypress/activity/post-form.php:55, dist/youplay/buddypress/members/single/profile/profile-wp.php:28
+msgid "My Profile"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/camera.php:17
+msgid "Your browser does not support this feature."
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/camera.php:24
+msgid "Capture"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/camera.php:25, dist/youplay/buddypress/members/single/settings/capabilities.php:30, dist/youplay/buddypress/members/single/settings/capabilities.php:31, dist/youplay/woocommerce/myaccount/form-reset-password.php:49
+msgid "Save"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/crop.php:23, dist/youplay/buddypress/groups/create.php:255, dist/youplay/buddypress/groups/single/admin.php:231, dist/youplay/buddypress/members/single/profile/change-avatar.php:60
+msgid "Crop Image"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/index.php:37, dist/youplay/buddypress/members/single/profile/change-avatar.php:44
+msgid "If you'd like to delete your current profile photo but not upload a new one, please use the delete profile photo button."
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/index.php:38, dist/youplay/buddypress/members/single/profile/change-avatar.php:45
+msgid "Delete Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/index.php:38, dist/youplay/buddypress/members/single/profile/change-avatar.php:45
+msgid "Delete My Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/index.php:40, dist/youplay/buddypress/groups/single/admin.php:203
+msgid "If you'd like to remove the existing group profile photo but not upload a new one, please use the delete group profile photo button."
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/avatars/index.php:41, dist/youplay/buddypress/assets/_attachments/avatars/index.php:41, dist/youplay/buddypress/groups/single/admin.php:205, dist/youplay/buddypress/groups/single/admin.php:205
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/cover-images/index.php:26
+msgid "If you'd like to delete your current cover image but not upload a new one, please use the delete Cover Image button."
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/cover-images/index.php:27, dist/youplay/buddypress/assets/_attachments/cover-images/index.php:30
+msgid "Delete Cover Image"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/cover-images/index.php:27
+msgid "Delete My Cover Image"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/cover-images/index.php:29
+msgid "If you'd like to remove the existing group cover image but not upload a new one, please use the delete group cover image button."
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/cover-images/index.php:30
+msgid "Delete Group Cover Image"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/uploader.php:16
+msgid "The web browser on your device cannot be used to upload files."
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/uploader.php:18
+msgid "Upload Limit Exceeded"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/uploader.php:23
+msgid "Drop your file here"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/uploader.php:24
+msgctxt "Uploader: Drop your file here - or - Select your File"
+msgid "or"
+msgstr ""
+
+#: dist/youplay/buddypress/assets/_attachments/uploader.php:26, dist/youplay/buddypress/assets/_attachments/uploader.php:28, dist/youplay/buddypress/assets/_attachments/uploader.php:29
+msgid "Select your File"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/blogs-loop.php:120
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/create.php:37
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/index.php:53
+msgid "All Sites %s"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/index.php:57
+msgid "My Sites %s"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/index.php:87, dist/youplay/buddypress/forums/index.php:87, dist/youplay/buddypress/functions.php:179, dist/youplay/buddypress/groups/index.php:80, dist/youplay/buddypress/groups/single/forum.php:50, dist/youplay/buddypress/members/index.php:83, dist/youplay/buddypress/members/single/blogs.php:22, dist/youplay/buddypress/members/single/forums.php:21, dist/youplay/buddypress/members/single/friends.php:25, dist/youplay/buddypress/members/single/groups.php:25
+msgid "Order By:"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/index.php:90, dist/youplay/buddypress/forums/index.php:90, dist/youplay/buddypress/groups/index.php:83, dist/youplay/buddypress/groups/single/forum.php:53, dist/youplay/buddypress/members/index.php:86, dist/youplay/buddypress/members/single/blogs.php:25, dist/youplay/buddypress/members/single/forums.php:24, dist/youplay/buddypress/members/single/friends.php:28, dist/youplay/buddypress/members/single/groups.php:28
+msgid "Last Active"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/index.php:91, dist/youplay/buddypress/functions.php:182, dist/youplay/buddypress/members/single/blogs.php:26
+msgid "Newest"
+msgstr ""
+
+#: dist/youplay/buddypress/blogs/index.php:92, dist/youplay/buddypress/functions.php:189, dist/youplay/buddypress/groups/index.php:86, dist/youplay/buddypress/members/index.php:90, dist/youplay/buddypress/members/single/blogs.php:27, dist/youplay/buddypress/members/single/friends.php:30, dist/youplay/buddypress/members/single/groups.php:31
+msgid "Alphabetical"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/forums-loop.php:74, dist/youplay/buddypress/groups/single/forum/topic.php:129
+msgid "Permanent link to this post"
+msgstr ""
+
+#. translators: "started by [poster] in [forum]"
+#: dist/youplay/buddypress/forums/forums-loop.php:81
+msgid "Started by %1$s"
+msgstr ""
+
+#. translators: "started by [poster] in [forum]"
+#: dist/youplay/buddypress/forums/forums-loop.php:92
+msgid "in %1$s"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/forums-loop.php:163
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:53
+msgid "All Topics %s"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:57
+msgid "My Topics %s"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:91, dist/youplay/buddypress/groups/single/forum.php:54, dist/youplay/buddypress/members/single/forums.php:25
+msgid "Most Posts"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:92, dist/youplay/buddypress/groups/single/forum.php:55, dist/youplay/buddypress/members/single/forums.php:26
+msgid "Unreplied"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:164
+msgid "Create New Topic:"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:171, dist/youplay/buddypress/groups/single/forum.php:108, dist/youplay/buddypress/groups/single/forum/edit.php:74
+msgid "Title:"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:174, dist/youplay/buddypress/groups/single/forum.php:113, dist/youplay/buddypress/groups/single/forum/edit.php:77
+msgid "Content:"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:177, dist/youplay/buddypress/groups/single/forum.php:118, dist/youplay/buddypress/groups/single/forum/edit.php:80
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:180
+msgid "Post In Group Forum:"
+msgstr ""
+
+#. translators: no option picked in select box
+#: dist/youplay/buddypress/forums/index.php:183
+msgid "----"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:207, dist/youplay/buddypress/groups/single/forum.php:134, dist/youplay/buddypress/groups/single/forum.php:135
+msgid "Post Topic"
+msgstr ""
+
+#: dist/youplay/buddypress/forums/index.php:219
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr ""
+
+#: dist/youplay/buddypress/functions.php:183
+msgid "Oldest"
+msgstr ""
+
+#: dist/youplay/buddypress/functions.php:186
+msgid "Group Activity"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:66, dist/youplay/buddypress/groups/single/admin.php:39
+msgid "Group Name (required)"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:73, dist/youplay/buddypress/groups/single/admin.php:44
+msgid "Group Description (required)"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:105, dist/youplay/buddypress/groups/single/admin.php:107
+msgid "Privacy Options"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:111, dist/youplay/buddypress/groups/single/admin.php:113
+msgid "This is a public group"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:115, dist/youplay/buddypress/groups/single/admin.php:117
+msgid "Any site member can join this group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:116, dist/youplay/buddypress/groups/create.php:128, dist/youplay/buddypress/groups/single/admin.php:118, dist/youplay/buddypress/groups/single/admin.php:129
+msgid "This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:117, dist/youplay/buddypress/groups/single/admin.php:119
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:123, dist/youplay/buddypress/groups/single/admin.php:124
+msgid "This is a private group"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:127, dist/youplay/buddypress/groups/single/admin.php:128
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:129, dist/youplay/buddypress/groups/create.php:141, dist/youplay/buddypress/groups/single/admin.php:130, dist/youplay/buddypress/groups/single/admin.php:141
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:135, dist/youplay/buddypress/groups/single/admin.php:135
+msgid "This is a hidden group"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:139, dist/youplay/buddypress/groups/single/admin.php:139
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:140, dist/youplay/buddypress/groups/single/admin.php:140
+msgid "This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:146, dist/youplay/buddypress/groups/single/admin.php:147
+msgid "Group Invitations"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:148, dist/youplay/buddypress/groups/single/admin.php:149
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:154, dist/youplay/buddypress/groups/single/admin.php:155
+msgid "All group members"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:159, dist/youplay/buddypress/groups/single/admin.php:160
+msgid "Group admins and mods only"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:164, dist/youplay/buddypress/groups/single/admin.php:165
+msgid "Group admins only"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:171
+msgid "Group Forums"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:175
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:179, dist/youplay/buddypress/groups/single/admin.php:100
+msgid "Enable discussion forum"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:183
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:223, dist/youplay/buddypress/groups/single/admin.php:192
+msgid "Upload an image to use as a profile photo for this group. The image will be shown on the main group page, and in search results."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:226, dist/youplay/buddypress/groups/single/admin.php:195, dist/youplay/buddypress/members/single/profile/change-avatar.php:34
+msgid "Select an image"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:228, dist/youplay/buddypress/groups/single/admin.php:197, dist/youplay/buddypress/members/single/profile/change-avatar.php:37, dist/youplay/buddypress/members/single/profile/change-avatar.php:38
+msgid "Upload Image"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:232
+msgid "To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:247
+msgid "Crop Group Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:249, dist/youplay/buddypress/groups/single/admin.php:225, dist/youplay/buddypress/members/single/profile/change-avatar.php:54
+msgid "Profile photo to crop"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:252, dist/youplay/buddypress/groups/single/admin.php:228, dist/youplay/buddypress/members/single/profile/change-avatar.php:57
+msgid "Profile photo preview"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:293, dist/youplay/buddypress/groups/single/admin.php:259
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:339
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:357, dist/youplay/buddypress/groups/single/invites-loop.php:83
+msgid "Remove Invite"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:374
+msgid "Once you have built up friend connections you will be able to invite others to your group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:420, dist/youplay/buddypress/groups/create.php:421
+msgid "Back to Previous Step"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:430, dist/youplay/buddypress/groups/create.php:431
+msgid "Next Step"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:440, dist/youplay/buddypress/groups/create.php:441
+msgid "Create Group and Continue"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/create.php:450, dist/youplay/buddypress/groups/create.php:451
+msgid "Finish"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/groups-loop.php:66, dist/youplay/buddypress/groups/single/cover-image-header.php:54, dist/youplay/buddypress/groups/single/group-header.php:71
+msgid "active %s"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/groups-loop.php:131
+msgid "There were no groups found."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/index.php:49
+msgid "All Groups %s"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/index.php:52, dist/youplay/buddypress/start.php:152
+msgid "My Groups %s"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/index.php:84, dist/youplay/buddypress/members/single/groups.php:29
+msgid "Most Members"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/index.php:85, dist/youplay/buddypress/members/single/groups.php:30
+msgid "Newly Created"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:61
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:75, dist/youplay/buddypress/groups/single/admin.php:76, dist/youplay/buddypress/groups/single/admin.php:180, dist/youplay/buddypress/groups/single/admin.php:181, dist/youplay/buddypress/groups/single/admin.php:500, dist/youplay/buddypress/groups/single/admin.php:501, dist/youplay/buddypress/groups/single/forum/edit.php:92, dist/youplay/buddypress/groups/single/forum/edit.php:123, dist/youplay/buddypress/members/single/profile/edit.php:106, dist/youplay/buddypress/members/single/profile/edit.php:107, dist/youplay/buddypress/members/single/settings/general.php:73, dist/youplay/buddypress/members/single/settings/general.php:74, dist/youplay/buddypress/members/single/settings/notifications.php:35, dist/youplay/buddypress/members/single/settings/notifications.php:36
+msgid "Save Changes"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:223
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:248, dist/youplay/buddypress/members/single/profile/change-cover-image.php:11
+msgid "Change Cover Image"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:287
+msgid "Administrators"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:296, dist/youplay/buddypress/groups/single/admin.php:326
+msgid "Profile picture of %s"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:302, dist/youplay/buddypress/groups/single/admin.php:332
+msgid "Demote to Member"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:317
+msgid "Moderators"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:331, dist/youplay/buddypress/groups/single/admin.php:331, dist/youplay/buddypress/groups/single/admin.php:386, dist/youplay/buddypress/groups/single/admin.php:386
+msgid "Promote to Admin"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:346
+msgid "Members"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:374
+msgid "(banned)"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:380
+msgid "Unban this member"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:380
+msgid "Remove Ban"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:384
+msgid "Kick and ban this member"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:384
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:385, dist/youplay/buddypress/groups/single/admin.php:385
+msgid "Promote to Mod"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:390
+msgid "Remove this member"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:390
+msgid "Remove from group"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:410
+msgid "This group has no members."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:481
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/admin.php:486
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/cover-image-header.php:81, dist/youplay/buddypress/groups/single/group-header.php:22
+msgid "Group Admins"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/cover-image-header.php:101, dist/youplay/buddypress/groups/single/group-header.php:42
+msgid "Group Mods"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum.php:30
+msgid "New Topic"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum.php:38, dist/youplay/buddypress/groups/single/forum/edit.php:29, dist/youplay/buddypress/groups/single/forum/topic.php:30
+msgid "Forum Directory"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum.php:102
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum.php:106
+msgid "Post a New Topic:"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/edit.php:38
+msgid "Edit:"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/edit.php:111
+msgid "Edit text"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/edit.php:136
+msgid "This topic does not exist."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:22
+msgid "New Reply"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:45
+msgid "Topic tags:"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:108
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:160
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:175
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:187
+msgid "Add a reply:"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:193
+msgid "Post Reply"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/forum/topic.php:211
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/invites-loop.php:120
+msgid "Select friends to invite."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/members.php:138
+msgid "No members were found."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/request-membership.php:17
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/request-membership.php:20
+msgid "Comments (optional)"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/request-membership.php:32
+msgid "Send Request"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/requests-loop.php:48, dist/youplay/buddypress/groups/single/requests-loop.php:48, dist/youplay/buddypress/members/single/friends/requests.php:57, dist/youplay/buddypress/members/single/groups/invites.php:45
+msgid "Accept"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/requests-loop.php:50, dist/youplay/buddypress/groups/single/requests-loop.php:50, dist/youplay/buddypress/members/single/friends/requests.php:58, dist/youplay/buddypress/members/single/groups/invites.php:46
+msgid "Reject"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/requests-loop.php:86
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/send-invites.php:29, dist/youplay/buddypress/groups/single/send-invites.php:30
+msgid "Send Invites"
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/send-invites.php:46
+msgid "Group invitations can only be extended to friends."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/send-invites.php:47
+msgid "Once you've made some friendships, you'll be able to invite those members to this group."
+msgstr ""
+
+#: dist/youplay/buddypress/groups/single/send-invites.php:55
+msgid "All of your friends already belong to this group."
+msgstr ""
+
+#: dist/youplay/buddypress/members/activate.php:40
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr ""
+
+#: dist/youplay/buddypress/members/activate.php:42
+msgid "Your account was activated successfully! You can now <a href=\"%s\">log in</a> with the username and password you provided when you signed up."
+msgstr ""
+
+#: dist/youplay/buddypress/members/activate.php:47
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: dist/youplay/buddypress/members/activate.php:51
+msgid "Activation Key:"
+msgstr ""
+
+#: dist/youplay/buddypress/members/index.php:53, dist/youplay/buddypress/start.php:116
+msgid "All Members %s"
+msgstr ""
+
+#: dist/youplay/buddypress/members/index.php:56, dist/youplay/buddypress/start.php:133
+msgid "My Friends %s"
+msgstr ""
+
+#: dist/youplay/buddypress/members/index.php:87, dist/youplay/buddypress/members/single/friends.php:29
+msgid "Newest Registered"
+msgstr ""
+
+#: dist/youplay/buddypress/members/members-loop.php:140
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:39
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:58
+msgid "Registering for this site is easy. Just fill in the fields below, and we'll get a new account set up for you in no time."
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:76
+msgid "Account Details"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:78, dist/youplay/buddypress/members/register.php:91, dist/youplay/buddypress/members/register.php:104, dist/youplay/buddypress/members/register.php:118, dist/youplay/buddypress/members/register.php:290, dist/youplay/buddypress/members/register.php:306
+msgid "(required)"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:91
+msgid "Email Address"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:104
+msgid "Choose a Password"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:118
+msgid "Confirm Password"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:170
+msgid "Profile Details"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:194, dist/youplay/buddypress/members/register.php:215, dist/youplay/buddypress/members/single/profile/edit.php:58, dist/youplay/buddypress/members/single/profile/edit.php:78
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:198
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:203, dist/youplay/buddypress/members/single/profile/edit.php:67
+msgid "Who can see this field?"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:208, dist/youplay/buddypress/members/single/profile/edit.php:72
+msgid "Close"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:284
+msgid "Blog Details"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:286
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:290
+msgid "Blog URL"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:306
+msgid "Site Title"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:317
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:327
+msgid "Yes"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:328
+msgid "No"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:369, dist/youplay/buddypress/members/register.php:370
+msgid "Complete Sign Up"
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:402
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr ""
+
+#: dist/youplay/buddypress/members/register.php:404
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/friends/requests.php:102
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/groups/invites.php:29
+msgctxt "Group member count"
+msgid "%d member"
+msgid_plural "%d members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/buddypress/members/single/groups/invites.php:66
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/compose.php:21
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/compose.php:34
+msgid "This is a notice to all users."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/compose.php:39
+msgid "Subject"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/compose.php:46
+msgid "Message"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/compose.php:65, dist/youplay/buddypress/members/single/messages/compose.php:66
+msgid "Send Message"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/messages-loop.php:57, dist/youplay/buddypress/members/single/notifications/notifications-loop.php:18
+msgid "Select all"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/messages-loop.php:91
+msgid "Select this message"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/messages-loop.php:105
+msgid "To:"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/messages-loop.php:114
+msgid "View Message"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/messages-loop.php:179
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/notices-loop.php:63
+msgid "Sent:"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/notices-loop.php:77
+msgid "Delete Message"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/notices-loop.php:95
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/single.php:30
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/single.php:34
+msgid "Conversation between %s recipients."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/single.php:38
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/single.php:44
+msgid "Delete Conversation"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/single.php:103
+msgid "Reply to Message"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/messages/single.php:119, dist/youplay/buddypress/members/single/messages/single.php:120
+msgid "Send Reply"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/feedback-no-notifications.php:16
+msgid "You have no unread notifications."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/feedback-no-notifications.php:20
+msgid "This member has no unread notifications."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/feedback-no-notifications.php:28
+msgid "You have no notifications."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/feedback-no-notifications.php:32
+msgid "This member has no notifications."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/notifications-loop.php:21
+msgid "Notification"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/notifications-loop.php:22
+msgid "Date Received"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/notifications-loop.php:23
+msgid "Actions"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/notifications/notifications-loop.php:36
+msgid "Select this notification"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/change-avatar.php:11
+msgid "Change Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/change-avatar.php:24
+msgid "Your profile photo will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/change-avatar.php:31
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/change-avatar.php:52
+msgid "Crop Your New Profile Photo"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/change-avatar.php:84
+msgid "Your profile photo will be used on your profile and throughout the site. To change your profile photo, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/change-cover-image.php:22
+msgid "Your Cover Image will be used to customize the header of your profile."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/edit.php:26
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/edit.php:62
+msgid "Change"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/profile-wp.php:44
+msgid "About Me"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/profile-wp.php:62
+msgid "Jabber"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/profile-wp.php:71
+msgid "AOL Messenger"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/profile/profile-wp.php:80
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/capabilities.php:25
+msgid "This user is a spammer."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/delete-account.php:16
+msgid "Deleting your account will delete all of the content you have created. It will be completely irrecoverable."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/delete-account.php:20
+msgid "Deleting this account will delete all of the content it has created. It will be completely irrecoverable."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/delete-account.php:39
+msgid "I understand the consequences."
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/delete-account.php:44, dist/youplay/buddypress/members/single/settings/delete-account.php:45
+msgid "Delete Account"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:15
+msgid "Current Password <small>(required to update email or change current password)</small>"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:18
+msgid "Current Password"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:23, dist/youplay/plugins/login-with-ajax/default/widget_out.php:54
+msgid "Password Lost and Found"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:23, dist/youplay/woocommerce/global/form-login.php:60, dist/youplay/woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:29
+msgid "Account Email"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:41
+msgid "Change Password <small>(leave blank for no change)</small>"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/general.php:53
+msgid "Repeat New Password"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/notifications.php:13
+msgid "Send an email notice when:"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/profile.php:28
+msgid "Visibility"
+msgstr ""
+
+#: dist/youplay/buddypress/members/single/settings/profile.php:63, dist/youplay/buddypress/members/single/settings/profile.php:64
+msgid "Save Settings"
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:116
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:133
+msgid "The activity of my friends only."
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:152
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:169
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:169
+msgid "My Favorites %s"
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:184
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:184
+msgid "Mentions"
+msgstr ""
+
+#: dist/youplay/buddypress/start.php:184
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/comments.php:26
+msgid "Comments"
+msgstr ""
+
+#: dist/youplay/comments.php:36, dist/youplay/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: dist/youplay/comments.php:39, dist/youplay/comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: dist/youplay/comments.php:40, dist/youplay/comments.php:60
+msgid "Newer Comments"
+msgstr ""
+
+#: dist/youplay/comments.php:67
+msgid "No Comments"
+msgstr ""
+
+#: dist/youplay/comments.php:91
+msgid "Your Email"
+msgstr ""
+
+#: dist/youplay/comments.php:96
+msgid "Your Name"
+msgstr ""
+
+#: dist/youplay/comments.php:101
+msgid "Your Website"
+msgstr ""
+
+#: dist/youplay/comments.php:108
+msgid "Your Comment..."
+msgstr ""
+
+#: dist/youplay/comments.php:119
+msgid "Comments are closed."
+msgstr ""
+
+#: dist/youplay/functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: dist/youplay/functions.php:49
+msgid "Primary Right Menu"
+msgstr ""
+
+#: dist/youplay/functions.php:80
+msgid "Carousel Thumbnail (500x375 crop)"
+msgstr ""
+
+#: dist/youplay/functions.php:81
+msgid "Carousel Thumbnail (500x375)"
+msgstr ""
+
+#: dist/youplay/functions.php:82
+msgid "User Avatar (200x200 crop)"
+msgstr ""
+
+#: dist/youplay/functions.php:83
+msgid "User Small Avatar (90x90 crop)"
+msgstr ""
+
+#: dist/youplay/functions.php:84
+msgid "1440x900 crop"
+msgstr ""
+
+#: dist/youplay/functions.php:85
+msgid "1440x900"
+msgstr ""
+
+#: dist/youplay/functions.php:86
+msgid "1920x1080"
+msgstr ""
+
+#: dist/youplay/functions.php:112
+msgid "Default Sidebar"
+msgstr ""
+
+#: dist/youplay/functions.php:120
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: dist/youplay/functions.php:122
+msgid "Sidebar for WooCommerce Pages"
+msgstr ""
+
+#: dist/youplay/functions.php:130
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: dist/youplay/functions.php:132
+msgid "Sidebar for BuddyPress Pages"
+msgstr ""
+
+#: dist/youplay/functions.php:140
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: dist/youplay/functions.php:142
+msgid "Sidebar for bbPress Pages"
+msgstr ""
+
+#: dist/youplay/functions.php:150
+msgid "Matches Sidebar"
+msgstr ""
+
+#: dist/youplay/functions.php:152
+msgid "Sidebar for Matches Pages"
+msgstr ""
+
+#: dist/youplay/functions.php:160
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: dist/youplay/functions.php:162
+msgid "Footer Widgets 1 Column"
+msgstr ""
+
+#: dist/youplay/functions.php:169
+msgid "Footer Widgets 2"
+msgstr ""
+
+#: dist/youplay/functions.php:171
+msgid "Footer Widgets 2 Column"
+msgstr ""
+
+#: dist/youplay/functions.php:178
+msgid "Footer Widgets 3"
+msgstr ""
+
+#: dist/youplay/functions.php:180
+msgid "Footer Widgets 3 Column"
+msgstr ""
+
+#: dist/youplay/functions.php:187
+msgid "Footer Widgets 4"
+msgstr ""
+
+#: dist/youplay/functions.php:189
+msgid "Footer Widgets 4 Column"
+msgstr ""
+
+#: dist/youplay/inc/comments-walker.php:64
+msgid "%s Reply"
+msgstr ""
+
+#: dist/youplay/inc/extras.php:120
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:55
+msgid "Posts navigation"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:84
+msgctxt "post date"
+msgid "%s %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:87
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:159
+msgid "%s %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:186
+msgctxt "post author"
+msgid "%s Author %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:205
+msgctxt "post date"
+msgid "%s Published %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:216
+msgid "View all posts in %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:219
+msgctxt "post categories"
+msgid "%s Categories %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:238
+msgctxt "post views"
+msgid "%s Views %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:376
+msgid "Read More"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:474
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:475, dist/youplay/inc/template-tags.php:475
+msgctxt "post password form"
+msgid "Enter"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:509
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:522
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:523
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:524
+msgid "Your email address will not be published."
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:528
+msgid "Leave a Reply"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:529, dist/youplay/woocommerce/single-product-reviews.php:81
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: dist/youplay/inc/template-tags.php:530
+msgid "Cancel reply"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_in.php:13
+msgid "Hi"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_in.php:84
+msgid "WP Admin"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_in.php:89
+msgid "Log Out"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:20, dist/youplay/plugins/login-with-ajax/default/widget_out.php:109
+msgid "Username:"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:27
+msgid "Password:"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:37
+msgid "Remember Me"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:54
+msgid "Lost password?"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:73
+msgid "Forgotten Password"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:78
+msgid "Enter username or email"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:87
+msgid "Get New Password"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:116
+msgid "E-mail:"
+msgstr ""
+
+#: dist/youplay/plugins/login-with-ajax/default/widget_out.php:126
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: dist/youplay/search.php:23, dist/youplay/search.php:25
+msgid "Search Results for: %s"
+msgstr ""
+
+#: dist/youplay/searchform.php:10
+msgid "Site Search"
+msgstr ""
+
+#: dist/youplay/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: dist/youplay/template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: dist/youplay/template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: dist/youplay/template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart-empty.php:24
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart-empty.php:35
+msgid "Return to Shop"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart-totals.php:23, dist/youplay/woocommerce/cart/mini-cart.php:85, dist/youplay/woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart-totals.php:45
+msgid "Shipping"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart-totals.php:61
+msgid "estimated for %s"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart-totals.php:84, dist/youplay/woocommerce/checkout/review-order.php:27, dist/youplay/woocommerce/checkout/review-order.php:106, dist/youplay/woocommerce/myaccount/my-orders.php:28, dist/youplay/woocommerce/order/order-details.php:43
+msgid "Total"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart.php:111, dist/youplay/woocommerce/cart/mini-cart.php:61
+msgid "Remove this item"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart.php:135, dist/youplay/woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart.php:138, dist/youplay/woocommerce/cart/cart.php:139, dist/youplay/woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cart.php:147
+msgid "Update Cart"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/mini-cart.php:91
+msgid "View Cart"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/mini-cart.php:92
+msgid "Checkout"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/mini-cart.php:101
+msgid "No products in the cart."
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/shipping-calculator.php:32
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/shipping-calculator.php:52, dist/youplay/woocommerce/cart/shipping-calculator.php:58, dist/youplay/woocommerce/cart/shipping-calculator.php:71
+msgid "State / county"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/shipping-calculator.php:59
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr ""
+
+#: dist/youplay/woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / Zip"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-billing.php:29
+msgid "Billing Details"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-billing.php:50
+msgid "Create an account?"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-checkout.php:18
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-coupon.php:30
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-login.php:32
+msgid "If you have shopped with us before, please enter your details below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-pay.php:27, dist/youplay/woocommerce/checkout/review-order.php:26, dist/youplay/woocommerce/order/order-details.php:42
+msgid "Product"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-pay.php:28
+msgid "Qty"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-pay.php:29
+msgid "Totals"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-pay.php:79
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/form-shipping.php:59, dist/youplay/woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/payment.php:33
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: dist/youplay/woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/payment.php:44, dist/youplay/woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:28
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:31, dist/youplay/woocommerce/myaccount/my-orders.php:86
+msgid "Pay"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:39, dist/youplay/woocommerce/checkout/thankyou.php:77
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:43
+msgid "Order Number:"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:52
+msgid "Email:"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:57
+msgid "Total:"
+msgstr ""
+
+#: dist/youplay/woocommerce/checkout/thankyou.php:62
+msgid "Payment Method:"
+msgstr ""
+
+#: dist/youplay/woocommerce/functions.php:71
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: dist/youplay/woocommerce/global/form-login.php:34, dist/youplay/woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: dist/youplay/woocommerce/global/form-login.php:51, dist/youplay/woocommerce/global/form-login.php:51, dist/youplay/woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: dist/youplay/woocommerce/global/form-login.php:56, dist/youplay/woocommerce/myaccount/form-login.php:55
+msgid "Remember me"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: dist/youplay/woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr ""
+
+#: dist/youplay/woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: dist/youplay/woocommerce/global/quantity-input.php:44
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: dist/youplay/woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: dist/youplay/woocommerce/loop/orderby.php:25
+msgid "Shop order"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:33
+msgid "Last name"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:41
+msgid "Display name"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:45
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:50, dist/youplay/woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:58
+msgid "Password Change"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:61
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:67
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:73
+msgid "Confirm New Password"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-account.php:86, dist/youplay/woocommerce/myaccount/form-edit-account.php:86
+msgid "Save changes"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-address.php:20, dist/youplay/woocommerce/order/order-details-customer.php:33
+msgid "Billing Address"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-address.php:20, dist/youplay/woocommerce/order/order-details-customer.php:54
+msgid "Shipping Address"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-edit-address.php:44, dist/youplay/woocommerce/myaccount/form-edit-address.php:44
+msgid "Save address"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-login.php:51, dist/youplay/woocommerce/myaccount/form-login.php:51
+msgid "Log in"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-login.php:101
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset Password"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/my-orders.php:69
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/my-orders.php:79
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/woocommerce/myaccount/my-orders.php:90
+msgid "View"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/view-order.php:28
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/view-order.php:37
+msgid "Order Updates"
+msgstr ""
+
+#: dist/youplay/woocommerce/myaccount/view-order.php:43
+msgid "l jS \o\f F Y, h:ia"
+msgstr ""
+
+#: dist/youplay/woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: dist/youplay/woocommerce/order/order-details-customer.php:36, dist/youplay/woocommerce/order/order-details-customer.php:57
+msgid "N/A"
+msgstr ""
+
+#: dist/youplay/woocommerce/order/order-details.php:38
+msgid "Order Details"
+msgstr ""
+
+#: dist/youplay/woocommerce/order/order-details.php:79
+msgid "Note:"
+msgstr ""
+
+#: dist/youplay/woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: dist/youplay/woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: dist/youplay/woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: dist/youplay/woocommerce/single-product-reviews.php:34
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:38
+msgid "Reviews"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:80
+msgid "Add a review"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:80
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:91
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:94
+msgid "Your Review"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product-reviews.php:118
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product/add-to-cart/variable.php:52
+msgid "Clear"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product/related.php:25
+msgid "Related Products"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product/review-meta.php:35
+msgid "verified owner"
+msgstr ""
+
+#: dist/youplay/woocommerce/single-product/review-rating.php:28
+msgid "out of 5"
+msgstr ""

@@ -1,0 +1,22 @@
+{
+   "domain": "nk-themes-helper",
+   "locale_data": {
+      "nk-themes-helper": {
+         "": {
+            "domain": "nk-themes-helper"
+         },
+         "nK Themes Helper": [
+            ""
+         ],
+         "Helper for nK themes": [
+            ""
+         ],
+         "nK": [
+            ""
+         ],
+         "https://nkdev.info": [
+            ""
+         ]
+      }
+   }
+}

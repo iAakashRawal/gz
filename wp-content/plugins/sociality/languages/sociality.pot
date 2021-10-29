@@ -1,0 +1,202 @@
+# Copyright (C) 2021 nK
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sociality 1.3.2\n"
+"Report-Msgid-Bugs-To: https://github.com/nk-o/sociality/issues\n"
+"Last-Translator: nK\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-04T09:52:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: sociality\n"
+
+#. Plugin Name of the plugin
+msgid "Sociality"
+msgstr ""
+
+#. Description of the plugin
+msgid "Social features for the theme authors"
+msgstr ""
+
+#. Author of the plugin
+msgid "nK"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nkdev.info"
+msgstr ""
+
+#: classes/class-author-bio.php:151
+msgid "Social Links"
+msgstr ""
+
+#: classes/class-author-bio.php:166
+msgid "Icon"
+msgstr ""
+
+#: classes/class-settings.php:108
+msgid "Likes"
+msgstr ""
+
+#: classes/class-settings.php:112
+msgid "Sharing"
+msgstr ""
+
+#: classes/class-settings.php:116
+msgid "Posts Author BIO"
+msgstr ""
+
+#: classes/class-settings.php:171
+msgid "To use these options you need to place actions in your theme templates.<br> See actions examples under settings on this page."
+msgstr ""
+
+#: classes/class-settings.php:176
+msgid "Posts"
+msgstr ""
+
+#: classes/class-settings.php:180
+#: classes/class-settings.php:192
+#: classes/class-settings.php:204
+#: classes/class-settings.php:216
+#: classes/class-settings.php:228
+#: classes/class-settings.php:240
+#: classes/class-settings.php:252
+#: classes/class-settings.php:264
+msgid "Disabled"
+msgstr ""
+
+#: classes/class-settings.php:181
+#: classes/class-settings.php:193
+#: classes/class-settings.php:205
+#: classes/class-settings.php:217
+#: classes/class-settings.php:229
+#: classes/class-settings.php:241
+#: classes/class-settings.php:253
+#: classes/class-settings.php:265
+msgid "Heart"
+msgstr ""
+
+#: classes/class-settings.php:182
+#: classes/class-settings.php:194
+#: classes/class-settings.php:206
+#: classes/class-settings.php:218
+#: classes/class-settings.php:230
+#: classes/class-settings.php:242
+#: classes/class-settings.php:254
+#: classes/class-settings.php:266
+msgid "Thumbs Up/Down"
+msgstr ""
+
+#: classes/class-settings.php:188
+msgid "Pages"
+msgstr ""
+
+#: classes/class-settings.php:200
+msgid "Comments"
+msgstr ""
+
+#: classes/class-settings.php:212
+msgid "WooCommerce Products"
+msgstr ""
+
+#: classes/class-settings.php:224
+msgid "WooCommerce Reviews"
+msgstr ""
+
+#: classes/class-settings.php:236
+msgid "bbPress Topics and Replies"
+msgstr ""
+
+#: classes/class-settings.php:248
+msgid "BuddyPress"
+msgstr ""
+
+#: classes/class-settings.php:260
+msgid "Custom Portfolio Type"
+msgstr ""
+
+#: classes/class-settings.php:274
+#: classes/class-settings.php:307
+msgid "Place"
+msgstr ""
+
+#: classes/class-settings.php:275
+msgid "If you need to place sharing buttons in custom place, call <code>do_action('sociality_sharing');</code> in your plugin or theme code. Also available shortcode <code>[sociality_sharing]</code>"
+msgstr ""
+
+#: classes/class-settings.php:286
+msgid "Buttons"
+msgstr ""
+
+#: classes/class-settings.php:298
+msgid "Show Sharing Counters"
+msgstr ""
+
+#: classes/class-settings.php:299
+#: classes/class-settings.php:320
+#: classes/class-settings.php:327
+#: classes/class-settings.php:334
+msgid "Yes"
+msgstr ""
+
+#: classes/class-settings.php:308
+msgid "If you need to place bio block in custom place, call <code>do_action('sociality_author_bio');</code> in your plugin or theme code. Also available shortcode <code>[sociality_author_bio]</code>"
+msgstr ""
+
+#: classes/class-settings.php:319
+msgid "Show Avatar"
+msgstr ""
+
+#: classes/class-settings.php:326
+msgid "Show Name"
+msgstr ""
+
+#: classes/class-settings.php:333
+msgid "Show Biographical Info"
+msgstr ""
+
+#: classes/class-settings.php:340
+msgid "Show Social Links"
+msgstr ""
+
+#: classes/class-settings.php:341
+msgid "Yes. <small>[You can set social links in your profile settings page]</small>"
+msgstr ""
+
+#: classes/class-settings.php:360
+msgid "Sociality Settings"
+msgstr ""
+
+#: classes/class-sharing.php:84
+#: classes/class-sharing.php:91
+msgid "Share to WeChat"
+msgstr ""
+
+#: classes/class-sharing.php:94
+msgid "This page requires JavaScript to be enabled in your browser."
+msgstr ""
+
+#: classes/class-sharing.php:98
+msgid "\"Scan QR Code\" in WeChat and tap <span class=\"sociality-share-wechat-share-how\">···</span> to share."
+msgstr ""
+
+#: classes/class-sharing.php:102
+msgid "Copy the link and open WeChat to share."
+msgstr ""
+
+#: classes/class-sharing.php:104
+msgid "Copied!"
+msgstr ""
+
+#: classes/class-sharing.php:105
+msgid "Open WeChat"
+msgstr ""
+
+#. translators: s - social brand name.
+#: templates/sharing-buttons.php:39
+msgid "Share page on %s"
+msgstr ""

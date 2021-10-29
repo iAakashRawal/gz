@@ -1,0 +1,935 @@
+# Copyright (C) 2020 Youplay Core Plugin
+# This file is distributed under the same license as the Youplay Core Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Youplay Core Plugin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: nK <https://nkdev.info>\n"
+"Last-Translator: nK <https://nkdev.info>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: dist/youplay-core/inc/extras.php:33
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-box.php:39
+msgid "nK Box"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-box.php:49, dist/youplay-core/shortcodes/nk-title.php:113, dist/youplay-core/shortcodes/yp-accordion.php:122, dist/youplay-core/shortcodes/yp-alert.php:84, dist/youplay-core/shortcodes/yp-banner.php:158, dist/youplay-core/shortcodes/yp-carousel.php:379, dist/youplay-core/shortcodes/yp-features.php:130, dist/youplay-core/shortcodes/yp-label.php:65, dist/youplay-core/shortcodes/yp-posts-carousel.php:380, dist/youplay-core/shortcodes/yp-progress-bar.php:92, dist/youplay-core/shortcodes/yp-recent-posts.php:231, dist/youplay-core/shortcodes/yp-tabs.php:122, dist/youplay-core/shortcodes/yp-text.php:52
+msgid "Boxed"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-box.php:56, dist/youplay-core/shortcodes/nk-instagram.php:77, dist/youplay-core/shortcodes/nk-pricing-table.php:82, dist/youplay-core/shortcodes/nk-pricing-table.php:131, dist/youplay-core/shortcodes/nk-testimonials.php:79, dist/youplay-core/shortcodes/nk-title.php:120, dist/youplay-core/shortcodes/nk-twitter.php:85, dist/youplay-core/shortcodes/yp-accordion.php:129, dist/youplay-core/shortcodes/yp-alert.php:91, dist/youplay-core/shortcodes/yp-banner.php:165, dist/youplay-core/shortcodes/yp-button.php:194, dist/youplay-core/shortcodes/yp-carousel.php:386, dist/youplay-core/shortcodes/yp-carousel.php:488, dist/youplay-core/shortcodes/yp-countdown.php:139, dist/youplay-core/shortcodes/yp-features.php:137, dist/youplay-core/shortcodes/yp-label.php:72, dist/youplay-core/shortcodes/yp-posts-carousel.php:387, dist/youplay-core/shortcodes/yp-progress-bar.php:99, dist/youplay-core/shortcodes/yp-recent-posts.php:238, dist/youplay-core/shortcodes/yp-single-image.php:159, dist/youplay-core/shortcodes/yp-tabs.php:129, dist/youplay-core/shortcodes/yp-tabs.php:179, dist/youplay-core/shortcodes/yp-text.php:59
+msgid "Custom Classes"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-instagram.php:63
+msgid "nK Instagram"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-instagram.php:71, dist/youplay-core/shortcodes/nk-twitter.php:79
+msgid "Count"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-pricing-table.php:70
+msgid "nK Pricing Table"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-pricing-table.php:100
+msgid "nK Pricing Item"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-pricing-table.php:110
+msgid "Type"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-pricing-table.php:123, dist/youplay-core/shortcodes/nk-testimonials.php:56, dist/youplay-core/shortcodes/nk-title.php:74, dist/youplay-core/shortcodes/yp-alert.php:77, dist/youplay-core/shortcodes/yp-button.php:98, dist/youplay-core/shortcodes/yp-label.php:43, dist/youplay-core/shortcodes/yp-text.php:44
+msgid "Inner Text"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-testimonials.php:48
+msgid "nK Testimonials"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-testimonials.php:64, dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:52
+msgid "Name"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-testimonials.php:72
+msgid "Avatar"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-title.php:66
+msgid "nK Title"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-title.php:82
+msgid "Tag"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-title.php:98
+msgid "Looks Like"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-title.php:116, dist/youplay-core/shortcodes/yp-features.php:133, dist/youplay-core/shortcodes/yp-label.php:68, dist/youplay-core/shortcodes/yp-posts-carousel.php:383, dist/youplay-core/shortcodes/yp-progress-bar.php:95, dist/youplay-core/shortcodes/yp-recent-posts.php:234, dist/youplay-core/shortcodes/yp-tabs.php:125, dist/youplay-core/shortcodes/yp-text.php:55
+msgid "Use it when your page content boxed disabled"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/nk-twitter.php:71
+msgid "nK Twitter"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:91
+msgid "Section"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:111
+msgid "nK Accordion"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:139, dist/youplay-core/shortcodes/yp-accordion.php:139
+msgid "Add section"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:142
+msgid "Section 1"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:143
+msgid "Section 2"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:157
+msgid "nK Accordion Content"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:167, dist/youplay-core/shortcodes/yp-carousel.php:423, dist/youplay-core/shortcodes/yp-features.php:75, dist/youplay-core/shortcodes/yp-tabs.php:166, dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:32, dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:44, dist/youplay-core/widgets/woocommerce/class-wc-widget-product-tag-cloud.php:30, dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:30, dist/youplay-core/widgets/woocommerce/class-wc-widget-recent-reviews.php:30, dist/youplay-core/widgets/woocommerce/class-wc-widget-recently-viewed.php:30, dist/youplay-core/widgets/woocommerce/class-wc-widget-top-rated-products.php:32
+msgid "Title"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:169, dist/youplay-core/shortcodes/yp-button.php:100, dist/youplay-core/shortcodes/yp-carousel.php:425, dist/youplay-core/shortcodes/yp-features.php:77, dist/youplay-core/shortcodes/yp-tabs.php:168
+msgid "Youplay"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-accordion.php:174, dist/youplay-core/shortcodes/yp-button.php:162, dist/youplay-core/shortcodes/yp-tabs.php:173
+msgid "Active"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-alert.php:48
+msgid "nK Alert"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-alert.php:56, dist/youplay-core/shortcodes/yp-button.php:127, dist/youplay-core/shortcodes/yp-label.php:51, dist/youplay-core/shortcodes/yp-progress-bar.php:71
+msgid "Color"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-alert.php:71
+msgid "Dismissible"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-alert.php:79
+msgid "Well done! You successfully read this important alert message."
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:97
+msgid "nK Banner"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:107, dist/youplay-core/shortcodes/yp-carousel.php:415, dist/youplay-core/shortcodes/yp-single-image.php:85
+msgid "Image"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:113, dist/youplay-core/shortcodes/yp-single-image.php:93
+msgid "Image Size"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:120
+msgid "Banner Size"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:129
+msgid "Mid"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:133
+msgid "Parallax"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:140
+msgid "Parallax Speed"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:143
+msgid "Parallax speed from -1.0 to 2.0"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:151
+msgid "Top Position"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-banner.php:154
+msgid "Check it if banner on the top of page."
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:90
+msgid "nK Button"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:105, dist/youplay-core/shortcodes/yp-carousel.php:431, dist/youplay-core/shortcodes/yp-features.php:109, dist/youplay-core/shortcodes/yp-single-image.php:114
+msgid "Link"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:113, dist/youplay-core/shortcodes/yp-carousel.php:438, dist/youplay-core/shortcodes/yp-features.php:116, dist/youplay-core/shortcodes/yp-single-image.php:127
+msgid "Target"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:120, dist/youplay-core/shortcodes/yp-carousel.php:445, dist/youplay-core/shortcodes/yp-features.php:123, dist/youplay-core/shortcodes/yp-single-image.php:140
+msgid "Rel"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:143, dist/youplay-core/shortcodes/yp-carousel.php:294, dist/youplay-core/shortcodes/yp-posts-carousel.php:279
+msgid "Size"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:156
+msgid "Full Width"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:168
+msgid "Align"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:180
+msgid "Icon Before"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:182
+msgid "fa fa-html5"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-button.php:187
+msgid "Icon After"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:268
+msgid "nK Carousel"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:280, dist/youplay-core/shortcodes/yp-countdown.php:102, dist/youplay-core/shortcodes/yp-posts-carousel.php:268, dist/youplay-core/shortcodes/yp-recent-posts.php:201
+msgid "Style"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:310
+msgid "Width"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:312
+msgid "100%"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:317, dist/youplay-core/shortcodes/yp-posts-carousel.php:303
+msgid "Autoplay"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:320, dist/youplay-core/shortcodes/yp-posts-carousel.php:306
+msgid "Type integer value in ms"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:324, dist/youplay-core/shortcodes/yp-posts-carousel.php:310
+msgid "Loop"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:331, dist/youplay-core/shortcodes/yp-posts-carousel.php:317
+msgid "Stage Padding"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:337, dist/youplay-core/shortcodes/yp-posts-carousel.php:323
+msgid "Item Padding"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:343, dist/youplay-core/shortcodes/yp-posts-carousel.php:329
+msgid "Show Arrows"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:351, dist/youplay-core/shortcodes/yp-posts-carousel.php:337
+msgid "Show Dots"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:358, dist/youplay-core/shortcodes/yp-posts-carousel.php:365
+msgid "Badges Always Show"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:365, dist/youplay-core/shortcodes/yp-single-image.php:153
+msgid "Center"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:371, dist/youplay-core/shortcodes/yp-posts-carousel.php:372
+msgid "Images Size"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:405
+msgid "nK Image"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:434
+msgid "Leave this blank, if you want to show full image in popup in 3 and 4 carousel style. If you want to show youtube/vimeo video in popup, simply add link to this input."
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:452
+msgid "Rating"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:455
+msgid "Write number from 0 to 5. For example: 1 / 2 / 3.5 / etc... Only for Style 1 and 2"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:460
+msgid "Badge Text"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:467
+msgid "Badge Color"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:481, dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:56
+msgid "Price"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-carousel.php:484
+msgid "Only for Style 1 and 2"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:40
+msgid "Days"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:44
+msgid "Hours"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:48
+msgid "Minutes"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:52
+msgid "Seconds"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:94
+msgid "nK Countdown"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:113
+msgid "Custom Markup"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:115
+msgid "%D days %H:%M:%S"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:116
+msgid "Type here custom coundown markup. More info here %s"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:124, dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:55
+msgid "Date"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:126
+msgid "2017-01-21 12:00"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:127
+msgid "Date Format: YYYY-MM-DD hh:mm"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-countdown.php:132
+msgid "Time Zone"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-features.php:67
+msgid "nK Features"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-features.php:83, dist/youplay-core/shortcodes/yp-features.php:85
+msgid "Description"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-features.php:91
+msgid "Description Size"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-features.php:102, dist/youplay-core/shortcodes/yp-single-image.php:102
+msgid "Icon"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-features.php:104
+msgid "fa fa-css3"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-label.php:35
+msgid "nK Label"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-label.php:45
+msgid "Label"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:252, dist/youplay-core/shortcodes/yp-posts-carousel.php:466, dist/youplay-core/shortcodes/yp-recent-posts.php:184, dist/youplay-core/shortcodes/yp-recent-posts.php:316
+msgid "Custom Query"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:253, dist/youplay-core/shortcodes/yp-recent-posts.php:185
+msgid "List of IDs"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:257
+msgid "nK Posts Carousel"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:295
+msgid "Posts Count"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:344
+msgid "Show Price"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:351
+msgid "Show Rating"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:358
+msgid "Show Discount Badges"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:368
+msgid "When unchecked - show only on mouse over"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:399, dist/youplay-core/shortcodes/yp-recent-posts.php:250
+msgid "Data source"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:400, dist/youplay-core/shortcodes/yp-posts-carousel.php:409, dist/youplay-core/shortcodes/yp-posts-carousel.php:438, dist/youplay-core/shortcodes/yp-posts-carousel.php:455, dist/youplay-core/shortcodes/yp-posts-carousel.php:467, dist/youplay-core/shortcodes/yp-posts-carousel.php:481, dist/youplay-core/shortcodes/yp-posts-carousel.php:488, dist/youplay-core/shortcodes/yp-posts-carousel.php:501, dist/youplay-core/shortcodes/yp-recent-posts.php:251, dist/youplay-core/shortcodes/yp-recent-posts.php:260, dist/youplay-core/shortcodes/yp-recent-posts.php:289, dist/youplay-core/shortcodes/yp-recent-posts.php:306, dist/youplay-core/shortcodes/yp-recent-posts.php:317, dist/youplay-core/shortcodes/yp-recent-posts.php:328, dist/youplay-core/shortcodes/yp-recent-posts.php:335, dist/youplay-core/shortcodes/yp-recent-posts.php:348
+msgid "Query"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:404, dist/youplay-core/shortcodes/yp-recent-posts.php:255
+msgid "Select content type"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:408, dist/youplay-core/shortcodes/yp-recent-posts.php:259
+msgid "Narrow data source"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:426, dist/youplay-core/shortcodes/yp-recent-posts.php:277
+msgid "Enter categories, tags or custom taxonomies."
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:437, dist/youplay-core/shortcodes/yp-recent-posts.php:288
+msgid "Data source relation"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:454, dist/youplay-core/shortcodes/yp-recent-posts.php:305
+msgid "IDs"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:458, dist/youplay-core/shortcodes/yp-posts-carousel.php:483, dist/youplay-core/shortcodes/yp-recent-posts.php:308, dist/youplay-core/shortcodes/yp-recent-posts.php:330
+msgid "Type here the posts, pages, etc. IDs you want to use separated by coma. ex: 23,24,25"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:470, dist/youplay-core/shortcodes/yp-recent-posts.php:319
+msgid "Build custom query according to %s."
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:480, dist/youplay-core/shortcodes/yp-recent-posts.php:327
+msgid "Exclude IDs"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:487, dist/youplay-core/shortcodes/yp-recent-posts.php:334
+msgid "Order By"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-posts-carousel.php:500, dist/youplay-core/shortcodes/yp-recent-posts.php:347
+msgid "Order"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-progress-bar.php:48
+msgid "nK Progress Bar"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-progress-bar.php:56
+msgid "Screen Reader Text"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-progress-bar.php:58
+msgid "40% Complete (success)"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-progress-bar.php:63
+msgid "Percent"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-progress-bar.php:65
+msgid "40"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-progress-bar.php:86
+msgid "Striped"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-recent-posts.php:190
+msgid "nK Recent Posts"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-recent-posts.php:212
+msgid "Recent Posts Count"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-recent-posts.php:219
+msgid "Pagination"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-single-image.php:77
+msgid "nK Single Image"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-single-image.php:108
+msgid "Link to Full Image"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-tabs.php:111
+msgid "nK Tabs"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-tabs.php:142
+msgid "Tab 1"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-tabs.php:143
+msgid "Tab 2"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-tabs.php:156
+msgid "nK Single Tab"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/yp-text.php:36
+msgid "nK Text Block"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/_all.php:88
+msgid "CSS"
+msgstr ""
+
+#: dist/youplay-core/shortcodes/_all.php:90
+msgid "Design Options"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-forums-widget.php:27
+msgid "A list of forums with an option to set the parent."
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-forums-widget.php:30
+msgid "(bbPress) Forums List"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-forums-widget.php:149, dist/youplay-core/widgets/bbpress/bbp-login-widget.php:169, dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:183, dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:211, dist/youplay-core/widgets/bbpress/bbp-views-widget.php:120, dist/youplay-core/widgets/instagram.php:51, dist/youplay-core/widgets/recent-posts.php:73, dist/youplay-core/widgets/twitter.php:51
+msgid "Title:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-forums-widget.php:155, dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:215
+msgid "Parent Forum ID:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-forums-widget.php:161, dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:221
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-forums-widget.php:177
+msgid "Forums"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:26
+msgid "A simple login form with optional links to sign-up and lost password pages."
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:29
+msgid "(bbPress) Login Widget"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:76
+msgid "Username"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:81
+msgid "Password"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:88
+msgid "Remember Me"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:93
+msgid "Log In"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:103, dist/youplay-core/widgets/bbpress/bbp-login-widget.php:103
+msgid "Register"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:109, dist/youplay-core/widgets/bbpress/bbp-login-widget.php:109
+msgid "Lost Password"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:174
+msgid "Register URI:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-login-widget.php:179
+msgid "Lost Password URI:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:27
+msgid "A list of the most recent replies."
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:30
+msgid "(bbPress) Recent Replies"
+msgstr ""
+
+#. translators: 1: reply link
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:133
+msgctxt "widgets"
+msgid "%1$s"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:127
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:121
+msgctxt "widgets"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:115
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:184
+msgid "Maximum replies to show:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:185, dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:224
+msgid "Show post date:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:186
+msgid "Show reply author:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-replies-widget.php:201
+msgid "Recent Replies"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:27
+msgid "A list of recent topics, sorted by popularity or freshness."
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:30
+msgid "(bbPress) Recent Topics"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:150
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:212
+msgid "Maximum topics to show:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:225
+msgid "Show topic author:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:228
+msgid "Order By:"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:230
+msgid "Newest Topics"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:231
+msgid "Popular Topics"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:232
+msgid "Topics With Recent Replies"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-topics-widget.php:249
+msgid "Recent Topics"
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-views-widget.php:26
+msgid "A list of registered optional topic views."
+msgstr ""
+
+#: dist/youplay-core/widgets/bbpress/bbp-views-widget.php:29
+msgid "(bbPress) Topic Views List"
+msgstr ""
+
+#: dist/youplay-core/widgets/instagram.php:13
+msgid "(Youplay) Instagram"
+msgstr ""
+
+#: dist/youplay-core/widgets/instagram.php:14
+msgid "Instagram images list."
+msgstr ""
+
+#: dist/youplay-core/widgets/instagram.php:55
+msgid "Images Count:"
+msgstr ""
+
+#: dist/youplay-core/widgets/recent-posts.php:13
+msgid "(Youplay) Recent Posts"
+msgstr ""
+
+#: dist/youplay-core/widgets/recent-posts.php:14
+msgid "List with recent posts."
+msgstr ""
+
+#: dist/youplay-core/widgets/recent-posts.php:77
+msgid "Posts Count:"
+msgstr ""
+
+#: dist/youplay-core/widgets/recent-posts.php:82
+msgid "Show Date"
+msgstr ""
+
+#: dist/youplay-core/widgets/recent-posts.php:86
+msgid "Show Author"
+msgstr ""
+
+#: dist/youplay-core/widgets/twitter.php:13
+msgid "(Youplay) Twitter"
+msgstr ""
+
+#: dist/youplay-core/widgets/twitter.php:14
+msgid "Tweetts list."
+msgstr ""
+
+#: dist/youplay-core/widgets/twitter.php:55
+msgid "Tweets Count:"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:25
+msgid "Shows a price filter slider in a widget which lets you narrow down the list of shown products when viewing product categories."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:27
+msgid "WooCommerce price filter"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:31
+msgid "Filter by price"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:114
+msgid "Min price"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:115
+msgid "Max price"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:117
+msgid "Price:"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-price-filter.php:119
+msgid "Filter"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:37
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:39
+msgid "WooCommerce Product Categories"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:43
+msgid "Product Categories"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:49, dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:53
+msgid "Order by"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:51
+msgid "Category Order"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:58
+msgid "Show as dropdown"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:63
+msgid "Show product counts"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:68
+msgid "Show hierarchy"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:73
+msgid "Only show children of the current category"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:78
+msgid "Hide empty categories"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-categories.php:236
+msgid "No product categories exist."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-tag-cloud.php:23
+msgid "Your most used product tags in cloud format."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-tag-cloud.php:25
+msgid "WooCommerce Product Tags"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-tag-cloud.php:29
+msgid "Product Tags"
+msgstr ""
+
+#. translators: %s for product quantity, e.g. 1 product and 2 products
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-product-tag-cloud.php:86
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:23
+msgid "Display a list of your products on your site."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:25
+msgid "WooCommerce Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:29
+msgid "Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:38, dist/youplay-core/widgets/woocommerce/class-wc-widget-recently-viewed.php:38, dist/youplay-core/widgets/woocommerce/class-wc-widget-top-rated-products.php:40
+msgid "Number of products to show"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:43
+msgid "Show"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:45
+msgid "All Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:46
+msgid "Featured Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:47
+msgid "On-sale Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:57
+msgid "Random"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:58
+msgid "Sales"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:64
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:66
+msgid "ASC"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:67
+msgid "DESC"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:73
+msgid "Hide free products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-products.php:78
+msgid "Show hidden products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recent-reviews.php:23
+msgid "Display a list of your most recent reviews on your site."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recent-reviews.php:25
+msgid "WooCommerce Recent Reviews"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recent-reviews.php:29
+msgid "Recent Reviews"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recent-reviews.php:38
+msgid "Number of reviews to show"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recent-reviews.php:96
+msgctxt "by comment author"
+msgid "by %1$s"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recently-viewed.php:23
+msgid "Display a list of recently viewed products."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recently-viewed.php:25
+msgid "WooCommerce Recently Viewed"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-recently-viewed.php:29
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-top-rated-products.php:25
+msgid "Display a list of your top rated products on your site."
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-top-rated-products.php:27
+msgid "WooCommerce Top Rated Products"
+msgstr ""
+
+#: dist/youplay-core/widgets/woocommerce/class-wc-widget-top-rated-products.php:31
+msgid "Top Rated Products"
+msgstr ""

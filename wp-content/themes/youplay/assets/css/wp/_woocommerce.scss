@@ -1,0 +1,338 @@
+/*------------------------------------------------------------------
+
+  WooCommerce
+
+-------------------------------------------------------------------*/
+
+/* Products Archive */
+.isotope-list.grid,
+.store-grid .grid,
+.woocommerce .grid {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+
+    > .item {
+        float: none;
+        min-height: 1px;
+    }
+}
+
+/* Price filter widget */
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+  background-color: $text_color;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+  background: none;
+  background-color: $text_color;
+  border-radius: 0;
+  -webkit-transform: skew(-$skew_size);
+  -ms-transform: skew(-$skew_size);
+      transform: skew(-$skew_size);
+  width: 16px;
+  height: 16px;
+  top: -6px;
+  margin-left: -10px;
+}
+.woocommerce .widget_price_filter .ui-slider-horizontal {
+  height: 3px;
+}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+  background-color: rgba($text_color,.2);
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+/* Products Header */
+.woocommerce .content-wrap > .product > .images {
+    float: none;
+    width: 100%;
+    margin-bottom: 0;
+}
+.woocommerce .content-wrap div.product p.price,
+.woocommerce .content-wrap div.product span.price {
+    display: inline-block;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+/* Products widget */
+.widget.woocommerce .youplay-side-news .star-rating {
+    display: block;
+    float: none;
+    margin: 1rem 0;
+}
+.angled-img .over-info .rating,
+.angled-img .over-info h4 {
+    margin-top: 0;
+}
+
+/* Forms */
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea {
+    line-height: inherit;
+}
+.woocommerce form .form-row textarea {
+    height: 100px;
+}
+.woocommerce form .form-row {
+    padding: 0;
+    margin: 0;
+}
+
+/* Show attributes */
+.wp_shop_attributes.table td p {
+    margin: 0;
+}
+
+
+
+/* Select 2 */
+.select2-container--default {
+    padding-bottom: 5px;
+}
+.select2-container--default .select2-selection--single {
+    position: relative;
+    background-color: transparent;
+    color: inherit;
+    border: none;
+    line-height: inherit;
+    height: auto;
+    min-height: 39px;
+    padding: 0.55rem 1.1rem;
+    z-index: 1;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: inherit;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 6px;
+    width: 35px;
+}
+.select2-dropdown {
+    color: #000;
+    border-radius: 0;
+    border: none;
+    padding: 15px 10px;
+    -webkit-box-shadow: 0 0 40px 0 rgba(0,0,0,0.1);
+            box-shadow: 0 0 40px 0 rgba(0,0,0,0.1);
+}
+
+
+.youplay-input > select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    border: none;
+    color: inherit;
+    outline: 0;
+    width: 100%;
+    padding: 1rem 3.6rem 1rem 1.8rem;
+    margin: 0;
+    background: 0 0;
+    z-index: 1;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    .youplay-input > select {
+        padding-right: 4rem;
+    }
+}
+
+/* Checkout */
+#add_payment_method #payment,
+.woocommerce-cart #payment,
+.woocommerce-checkout #payment {
+    background: rgba(235, 233, 235, 0.09);
+}
+#add_payment_method #payment ul.payment_methods,
+.woocommerce-cart #payment ul.payment_methods,
+.woocommerce-checkout #payment ul.payment_methods {
+    border-bottom: 1px solid rgba(211, 206, 210, 0.15);
+}
+
+/* My Account navigation */
+.woocommerce-account .entry-content .woocommerce {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.woocommerce-MyAccount-navigation {
+    padding-right: 30px;
+    max-width: 300px;
+}
+.woocommerce-MyAccount-navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.woocommerce-MyAccount-navigation li > a {
+    position: relative;
+    display: block;
+    padding: 11px 20px;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+.woocommerce-MyAccount-navigation li.is-active > a:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba($text_color,.1);
+    -webkit-transform: skew(-8deg);
+        -ms-transform: skew(-8deg);
+            transform: skew(-8deg);
+    -webkit-transition: .3s background ease;
+    -o-transition: .3s background ease;
+    transition: .3s background ease;
+}
+
+// form fields
+.woocommerce-input-wrapper {
+    position: relative;
+    display: block;
+    margin-bottom: 2rem;
+
+    // placeholder color
+    ::-webkit-input-placeholder {
+        color: $text_mute_color;
+        -webkit-transition: .3s color ease;
+        -o-transition: .3s color ease;
+        transition: .3s color ease;
+    }
+    ::-moz-placeholder {
+        color: $text_mute_color;
+        -webkit-transition: .3s color ease;
+        -o-transition: .3s color ease;
+        transition: .3s color ease;
+    }
+    :-ms-input-placeholder {
+        color: $text_mute_color;
+        -webkit-transition: .3s color ease;
+        -o-transition: .3s color ease;
+        transition: .3s color ease;
+    }
+    ::-ms-input-placeholder {
+        color: $text_mute_color;
+        -webkit-transition: .3s color ease;
+        -o-transition: .3s color ease;
+        transition: .3s color ease;
+    }
+    ::placeholder {
+        color: $text_mute_color;
+        -webkit-transition: .3s color ease;
+        -o-transition: .3s color ease;
+        transition: .3s color ease;
+    }
+
+    // inputs
+    input,
+    textarea {
+        position: relative;
+        display: block;
+        color: inherit;
+        width: 100%;
+        padding: 1rem 1.8rem;
+        resize: none;
+        background: none;
+        border: none;
+        outline: none;
+        -webkit-transition: .3s color ease;
+        -o-transition: .3s color ease;
+        transition: .3s color ease;
+        z-index: 2;
+    }
+
+    // skew background
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: rgba($text_color, .1);
+        -webkit-transition: .3s background ease;
+        -o-transition: .3s background ease;
+        transition: .3s background ease;
+        -webkit-transform: skew(-$skew_size);
+        -ms-transform: skew(-$skew_size);
+            transform: skew(-$skew_size);
+    }
+
+    // on focus styles
+    &.input-filled {
+        ::-webkit-input-placeholder {
+            color: rgba($back_darken_color, .8);
+        }
+        ::-moz-placeholder {
+            color: rgba($back_darken_color, .8);
+        }
+        :-ms-input-placeholder {
+            color: rgba($back_darken_color, .8);
+        }
+        ::-ms-input-placeholder {
+            color: rgba($back_darken_color, .8);
+        }
+        ::placeholder {
+            color: rgba($back_darken_color, .8);
+        }
+        &::after {
+            background: rgba($text_color, 1);
+        }
+        .icon,
+        input,
+        textarea {
+            color: $back_darken_color;
+        }
+    }
+}
+
+/* Loop Add to Cart */
+.youplay-woo-loop-add-to-cart {
+    text-align: center;
+    margin-bottom: 15px;
+    -webkit-transform: translateX(-5%);
+    -ms-transform: translateX(-5%);
+    transform: translateX(-5%);
+}
+
+/* Product review */
+.reviews-block .reviews-list .date {
+    display: block;
+    margin-top: 3px;
+}
+
+/* Small fix for WooCommerce Germanized plugin delivery time option */
+.mini_cart_item h4 .delivery-time-info {
+    font-size: 1rem;
+    margin-top: 0;
+}
+
+/* Login / Registration form */
+.woocommerce form.login,
+.woocommerce form.register {
+    padding: 0;
+    border: none;
+}
+
+/* Demo notice */
+.woocommerce-store-notice,
+p.demo_store {
+    position: fixed;
+    display: block;
+    top: auto;
+    bottom: 15px;
+    left: 15px;
+    right: 15px;
+    width: auto;
+}
+.admin-bar p.demo_store {
+    top: auto;
+}

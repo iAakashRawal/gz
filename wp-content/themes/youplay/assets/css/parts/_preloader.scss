@@ -1,0 +1,104 @@
+$preloader-size: 200px !default;
+$preloader-thickness: 5px !default;
+$preloader-speed: 1s !default;
+
+.preloader-wrapp {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: $back_darken_color;
+    z-index: 100000000;
+
+    .preloader {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-top: -$preloader-size/2;
+        margin-left: -$preloader-size/2;
+    }
+}
+.preloader-wrapp > img {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    width: 180px;
+    margin-bottom: -10px;
+    margin-left: -90px;
+    z-index: 2;
+}
+
+.preloader {
+    position: relative;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    width: $preloader-size;
+    height: $preloader-size;
+    background-clip: padding-box;
+    border: $preloader-thickness solid hsla(0, 0%, 100%, .1);
+    border-radius: $preloader-size / 2;
+    -webkit-transform: perspective($preloader-size) rotateX(80deg);
+    transform: perspective($preloader-size) rotateX(80deg);
+    -webkit-transform-origin: 50% 60%;
+    -ms-transform-origin: 50% 60%;
+        transform-origin: 50% 60%;
+
+    // mask smoothens out the anti-aliasing artifacts in the back.
+    -webkit-mask: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 0%, .1)), color-stop(90%, hsla(0, 0%, 0%, 1)));
+    -webkit-mask: -webkit-linear-gradient(hsla(0, 0%, 0%, .1), hsla(0, 0%, 0%, 1) 90%); // stylelint-disable-line
+}
+
+.preloader::before,
+.preloader::after {
+    content: "";
+    position: absolute;
+    -webkit-box-sizing: inherit;
+            box-sizing: inherit;
+    top: 0;
+    left: 0;
+    width: inherit;
+    height: inherit;
+    margin: -$preloader-thickness;
+    border: $preloader-thickness solid hsla(0, 0%, 100%, .1);
+    border-color: transparent;
+    border-top-color: $main_color;
+    border-radius: inherit;
+    opacity: .85;
+    -webkit-animation: youplay-preloader-spin $preloader-speed infinite;
+    animation: youplay-preloader-spin $preloader-speed infinite;
+}
+
+.preloader::after {
+    -webkit-animation-delay: $preloader-speed * .35;
+    animation-delay: $preloader-speed * .35;
+}
+
+@keyframes youplay-preloader-spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes youplay-preloader-spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+
+.preloader-wrapp > img,
+.preloader-wrapp > .preloader {
+    -webkit-animation: youplay-preloader-fade .5s;
+    animation: youplay-preloader-fade .5s;
+}
+@keyframes youplay-preloader-fade {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+@-webkit-keyframes youplay-preloader-fade {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}

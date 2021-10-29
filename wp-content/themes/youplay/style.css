@@ -1,0 +1,343 @@
+/*
+Theme Name:   Youplay
+Theme URI:    https://themeforest.net/item/youplay-gaming-wordpress-theme/11959042?ref=_nK
+Author:       nK
+Author URI:   https://nkdev.info/
+Description:  Gaming Wordpress Theme
+Version:      3.7.4
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  youplay
+Tags:         entertainment, e-commerce, blog, news, one-column, two-columns, left-sidebar, right-sidebar, buddypress, custom-background, custom-colors, custom-menu, theme-options, translation-ready, footer-widgets, rtl-language-support
+*/
+
+
+/* Wordpress CSS */
+.youplay-news .news-one.sticky h2 > svg {
+    display: inline-block;
+    margin-right: 15px;
+    -webkit-transform: rotate(-45deg) translateY(3px) translateX(3px);
+    transform: rotate(-45deg) translateY(3px) translateX(3px);
+}
+
+
+.gallery {
+    margin-bottom: 1.6em;
+}
+
+.gallery-item {
+    display: inline-block;
+    padding: 1.79104477%;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+    max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+    max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+    max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+    max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+    max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+    max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+    max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+    max-width: 11.11%;
+}
+
+.gallery-icon img {
+    margin: 0 auto;
+}
+
+.gallery-caption {
+    display: block;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 0.5em 0;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+    display: none;
+}
+
+.bypostauthor .comment-cont .comment-author {
+    color: #D92B4C;
+}
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wp-caption {
+    max-width: 100%;
+    padding: 5px 5px 8px;
+    color: #000;
+    text-align: center;
+    background: #fff;
+    border: 1px solid #f0f0f0;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0 none;
+}
+
+.wp-caption .wp-caption-text {
+    padding: 8px 0 0;
+    margin: 0;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000; /* Above WP toolbar. */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+
+/* Table for posts */
+.entry-content.description table,
+.comments-block .comment-text table {
+    margin-bottom: 30px;
+    border: 1px solid #838282;
+}
+.entry-content.description table th,
+.entry-content.description table td,
+.comments-block .comment-text table th,
+.comments-block .comment-text table td {
+    padding: 5px 15px;
+    border-top: 1px solid #838282;
+    border-left: 1px solid #838282;
+}
+
+/* Fixed Large Images*/
+.nk-post-text img, .nk-forum-topic-content img{
+    max-width: 100%;
+    height: auto;
+}
+/* Fixed Multiple category list on post page*/
+.nk-categories-list{
+    vertical-align: top;
+}
+/* Fixed for Monster Widgets*/
+#wp-calendar {width: auto;min-width: 99%;}
+#wp-calendar caption { text-align: right; font-size: 12px; padding: 0; margin-bottom: 15px; }
+#wp-calendar thead { font-weight: 900; font-size: 1.2rem; }
+#wp-calendar thead th { text-align: center; padding-bottom: 10px; }
+#wp-calendar tbody td { border: 1px solid #fff; text-align: center; padding:8px;}
+#wp-calendar tbody .pad { background: none; }
+#wp-calendar tfoot #next { font-size: 1.2rem; text-transform: uppercase; text-align: right; }
+#wp-calendar tfoot #prev { font-size: 1.2rem; text-transform: uppercase; padding-top: 10px; }
+/* Fix for all buttons*/
+.nk-btn:focus{
+    outline: none;
+}
+
+
+/* Remove margins from angled youplay images */
+.review-avatar > img,
+.comment-avatar > img,
+.angled-img > img,
+.angled-img .img > img {
+  margin: 0 !important;
+}
+
+
+/* Fix some Visual Composer styles */
+.angled-img i.icon {
+  width: auto;
+  height: auto;
+  line-height: normal;
+}
+.content-wrap .wpb_row,
+.content-wrap .wpb_content_element,
+.content-wrap ul.wpb_thumbnails-fluid > li,
+.content-wrap .last_toggle_el_margin,
+.content-wrap .wpb_button {
+  margin-bottom: 10px;
+}
+
+
+/* Fixed some core UI items text color */
+.wp-link-wrap {
+  color: #000;
+}
+
+/* Embed fix */
+.responsive-embed {
+  clear: none !important;
+}
+
+/* Error message color */
+.error {
+    color: #F00;
+}
+
+/* Fixed VC Video Widget Conflict */
+.wpb_video_widget .wpb_wrapper .wpb_video_wrapper > div {
+    padding-bottom: 0 !important;
+}
+
+/* registration modal on small screens */
+@media (max-width: 700px) {
+    .lwa .lwa-modal.modal-dialog {
+        width: auto;
+        margin: 0;
+        left: 15px;
+        right: 15px;
+    }
+}
+
+/* User dropdown profile links */
+.lwa-profile-links li a {
+    display: block;
+    padding: 4px 0;
+}
+.lwa-profile-links {
+    margin-top: -4px;
+    margin-bottom: -4px;
+}
+
+/* fuck off Adguard */
+::content .youplay-banner.banner-top,
+.content-wrap .youplay-banner.banner-top,
+.youplay-banner.banner-top {
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+
+/* Fixed banner Image z-index (you will see bug when overlay opacity is 100%) */
+.youplay-banner .image {
+    z-index: 0;
+}
+
+/* WPML menu item */
+.navbar-youplay .navbar-nav.navbar-wpml > li > .dropdown-menu > ul,
+.navbar-wpml .dropdown-menu {
+    min-width: 0;
+}
+.navbar-wpml img {
+    max-width: none;
+}
+
+/* Remove footer social icons container max-width due to support for 6 social buttons */
+body footer .social .social-icons {
+    max-width: none;
+}
+
+/* Cookies comment form checkbox */
+.comment-form-cookies-consent {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.comment-form-cookies-consent [type="checkbox"] {
+    margin: 0;
+    margin-right: 10px;
+}

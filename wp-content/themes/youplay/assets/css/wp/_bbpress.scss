@@ -1,0 +1,151 @@
+/*------------------------------------------------------------------
+
+  bbPress
+
+-------------------------------------------------------------------*/
+
+/* Text Editor */
+textarea#bbp_reply_content,
+textarea#bbp_topic_content,
+textarea#bbp_forum_content {
+  font-size: inherit;
+  font-family: inherit;
+  color: inherit;
+  width: 100%;
+  padding: 1rem 1.8rem;
+  background: rgba($text_color, 0.1);
+}
+.quicktags-toolbar {
+  background: lighten($back_darken_color, 1%) !important;
+  border-bottom: none !important;
+}
+.wp-core-ui .quicktags-toolbar input.button.button-small {
+  margin: 4px !important;
+}
+.wp-core-ui .quicktags-toolbar .button,
+.wp-core-ui .quicktags-toolbar .button-primary,
+.wp-core-ui .quicktags-toolbar .button-secondary {
+  border-width: 0;
+  border: none;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: darken($text_color, 1%);
+  background: none;
+}
+.wp-core-ui .quicktags-toolbar .button:hover,
+.wp-core-ui .quicktags-toolbar .button-primary:hover,
+.wp-core-ui .quicktags-toolbar .button-secondary:hover {
+  background: lighten($back_darken_color, 3%);
+  color: darken($text_color, 1%);
+}
+@media screen and (min-width: 782px) {
+  .wp-core-ui .quicktags-toolbar input.button.button-small {
+    font-size: 1em !important;
+    height: 30px !important;
+    line-height: 25px !important;
+  }
+}
+
+/* Topic revision */
+.youplay-forum .bbp-topic-revision-log-item,
+.youplay-forum .bbp-reply-revision-log-item {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  font-size: .8em;
+}
+.youplay-forum .bbp-topic-revision-log-item .avatar,
+.youplay-forum .bbp-reply-revision-log-item .avatar {
+  width: auto;
+  -webkit-transform: none;
+      -ms-transform: none;
+          transform: none;
+  display: inline-block;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+/* fix for version log */
+.youplay-forum .bbp-topic-revision-log-item img.avatar {
+  width: 14px;
+  height: auto;
+  margin: 0;
+}
+.youplay-forum .bbp-topic-revision-log-item {
+  padding: 0;
+}
+
+
+/* Fix some user forms font */
+form > tt {
+  font-family: inherit;
+}
+
+/* Fix for attachments plugin */
+.bbp-attachments ol,
+.bbp-attachments-errors ol {
+    margin: 0;
+    padding: 0;
+}
+.bbp-attachments ol li,
+.bbp-attachments-errors ol li {
+    padding: 0;
+    padding-top: 15px;
+}
+
+/* Fix for Links popup */
+.bbpress #wp-link-wrap {
+    background-color: $back_darken_color;
+}
+.bbpress #link-modal-title,
+.bbpress #wp-link .submitbox {
+    background: $back_darken_color;
+    border-bottom-color: rgba($text_color, 0.1);
+}
+.bbpress #wp-link .query-results {
+    margin-top: 25px;
+}
+@media screen and (max-height: 520px) {
+    .bbpress #wp-link .query-results {
+        margin-top: 0;
+    }
+}
+.bbpress #wp-link .query-notice {
+    background-color: rgba($text_color, 0.4);
+    color: inherit;
+}
+.bbpress #wp-link .query-results {
+    background: rgba($text_color, 0.1);
+    border-color: rgba($text_color, 0.1);
+}
+.bbpress #wp-link li {
+    border-color: rgba($text_color, 0.2);
+    color: inherit;
+}
+.bbpress #wp-link li:hover {
+    color: $back_darken_color;
+    background: rgba($text_color, 0.85);
+}
+.bbpress #wp-link li.selected {
+    color: $back_darken_color;
+    background: $text_color;
+}
+
+/* Add support for ul, ol lists in forum topics content */
+.youplay-forum div.text ul li,
+.youplay-forum div.text ol li {
+    float: none;
+    padding: 0;
+    list-style-type: inherit;
+}
+.youplay-forum div.text ul,
+.youplay-forum div.text ol {
+    padding-left: 40px;
+}
+.youplay-forum div.text ul,
+.youplay-forum div.text ol,
+.youplay-forum div.text ul:before,
+.youplay-forum div.text ol:before {
+    clear: none;
+}
